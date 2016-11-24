@@ -1,0 +1,13 @@
+/* Specific to example one */
+
+#example-one { margin:20px; }
+
+#example-one .nav { overflow: hidden; margin: 0 0 10px 0; }
+#example-one .nav li { float: left; margin: 0; }
+#example-one .nav li.last { margin-right: 0; }
+#example-one .nav li a { display: block; padding:10px 25px; color: white; font-size: 18px; text-align: center; border: 0; }
+
+#example-one ul { list-style: none; }
+
+.content-tabs h3 { margin: 25px 0 15px; }
+

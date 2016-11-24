@@ -1,0 +1,2096 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-07-08 13:40-0400\n"
+"PO-Revision-Date: 2016-07-08 16:53-0400\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+
+#: Controller/AppController.php:302
+msgid "Completa los datos de tu perfil empresarial"
+msgstr "Please tell us more about you and complete your company profile"
+
+#: Controller/AppController.php:508
+msgid "Lo sentimos. Tu usuario se encuentra Inactivo."
+msgstr "We are sorry.  Your user is currently Inactive."
+
+#: Controller/AppController.php:537
+msgid "Recuerda que debes iniciar sesión."
+msgstr "Don't forget to start your session."
+
+#: Controller/FrontController.php:59 Controller/NewslettersController.php:29
+msgid "Se han guardado los datos exitosamente"
+msgstr "Awesome.  Your information has been saved successfully"
+
+#: Controller/FrontController.php:62 Controller/NewslettersController.php:32
+msgid "Se ha realizado una nueva suscripción desde "
+msgstr "A new subscription has been made from"
+
+#: Controller/FrontController.php:78 Controller/NewslettersController.php:55
+msgid "El correo electrónico ya se encuentra registrado"
+msgstr "This email address is already in use."
+
+#: Controller/FrontController.php:90 Controller/NewslettersController.php:67
+msgid "Acceso denegado"
+msgstr "Access denied"
+
+#: Controller/PagesController.php:39
+msgid "un nuevo mensaje desde "
+msgstr "A new message from"
+
+#: Controller/PagesController.php:40
+msgid ""
+"Este es un mensaje automático desde tu sitio web. el siguiente es un correo "
+"enviado el"
+msgstr ""
+"This is an automated email from your website.  The following email has been "
+"sent on"
+
+#: Controller/PagesController.php:53
+msgid "Gracias por cominicarte con nosotros"
+msgstr "Thank You for contacting us.  We will get back to you shortly"
+
+#: Controller/PostsController.php:109
+msgid "No hemos encontrado lo que buscas"
+msgstr "Sorry, we did not find what you were looking for"
+
+#: Controller/PostsController.php:284
+msgid "Se ha generado una oferta para "
+msgstr "Great! An offer has been made for"
+
+#: Controller/PostsController.php:322
+msgid ""
+"Este es un email de alerta. Un cliente interesado en una grúa con estas "
+"caracteristicas desde: "
+msgstr ""
+"This is an email alert.  A customer is interested in a crane with the "
+"following characteristics:"
+
+#: Controller/PostsController.php:402
+msgid "Lo sentimos no tienes gruas para comparar."
+msgstr "We are sorry.  You don't have any cranes to compare"
+
+#: Controller/PostsController.php:407
+msgid "Lo sentimos no puedes tener más de 3 gruas para comparar."
+msgstr "We are sorry!  You can only compare up to 3 cranes at a time."
+
+#: Controller/PostsController.php:440
+msgid "Ya seleccionaste un agrua. Selecciona otra grua para poder comparar."
+msgstr ""
+"Great!  You already selected one crane, now select another one to compare"
+
+#: Controller/PostsController.php:443
+msgid ""
+"Dato Almacenado. Puedes ver tus gruas comparadas <br> <a href=\"/compare\" "
+"><b>Ver comparaciones</b></a>"
+msgstr ""
+"Information saved.  Compare my selected cranes now <br> <a href=\"/compare\" "
+"><b>Ver comparaciones</b></a>"
+
+#: Controller/PostsController.php:450
+msgid "El dato ya se encuentra registrado en nuestra base de datos."
+msgstr "This information has already been saved in our database"
+
+#: Controller/PostsController.php:456
+msgid ""
+"Lo sentimos no se puede agregar más de 3 gruas para comparar.<br> <a href=\"/"
+"compare\" >Ver comparaciones</a>"
+msgstr ""
+"Oops.  You can only compare up to 3 cranes at a time <br> <a href=\"/compare"
+"\" >Ver comparaciones</a>"
+
+#: Controller/PostsController.php:463
+msgid "Acceso restringido."
+msgstr "Access denied"
+
+#: Controller/PostsController.php:482
+msgid "Se ha eliminado por completo el registro de comparación"
+msgstr "My crane comparison query has been deleted"
+
+#: Controller/PostsController.php:526
+msgid "Area de acceso restringida."
+msgstr "Restricted access area"
+
+#: Controller/PostsController.php:614
+msgid "Resultados del filtro de busqueda por continente"
+msgstr "Filter search results by continent"
+
+#: Controller/PostsController.php:649
+msgid "Guardado en Favoritos"
+msgstr "Awesome! This crane has been saved in your favorites"
+
+#: Controller/PostsController.php:655;687
+msgid "Lo sentimos, el usuario no existe"
+msgstr "We are sorry.  This user does not exist"
+
+#: Controller/PostsController.php:681
+msgid "Se ha removido de tus Favoritos"
+msgstr "This unit has been removed from your favorites"
+
+#: Controller/UsersController.php:259
+msgid "Ha ocurrido un error. Por favor intente de nuevo."
+msgstr "An error has occurred.  Please try again."
+
+#: Controller/UsersController.php:305
+msgid "Te has registrado exitosamente en "
+msgstr "Awesome!  You have registered successfully in"
+
+#: Controller/UsersController.php:306;537;566;692;745;791;897
+msgid "Este es un mensaje automático. El siguiente es un correo enviado el"
+msgstr "This is an automated message.  The following is an email sent on"
+
+#: Controller/UsersController.php:320
+msgid ""
+"Perfil generado correctamente. Completa los datos de tu empresa para "
+"continuar"
+msgstr ""
+"Your profile has been generated successfully.  Now complete your company "
+"profile to continue"
+
+#: Controller/UsersController.php:326
+msgid "Lo sentimos, no se ha podido crear el usuario"
+msgstr "We are sorry. We have not been able to create your user account"
+
+#: Controller/UsersController.php:536
+msgid "Has actualizado los datos de tu perfil "
+msgstr "Awesome. Your profile has been updated"
+
+#: Controller/UsersController.php:536;565
+msgid " En "
+msgstr "In"
+
+#: Controller/UsersController.php:553
+msgid "Perfil actualizado"
+msgstr "My profile has been updated"
+
+#: Controller/UsersController.php:565
+msgid "Estado de oferta para el producto "
+msgstr "Offer status for product"
+
+#: Controller/UsersController.php:593
+msgid "Contraoferta generada exitosamente, se ha enviado el correo"
+msgstr ""
+"Counter offer generated successfully, an email has been sent with the details"
+
+#: Controller/UsersController.php:643
+msgid "La transaccion se ha generado"
+msgstr "Great! The transaction has been generated"
+
+#: Controller/UsersController.php:649
+msgid "Lo sentimos no puedes ingresar en este momento"
+msgstr "We are sorry.  You cannot access at this time"
+
+#: Controller/UsersController.php:684
+msgid "Rechazada"
+msgstr "Rejected"
+
+#: Controller/UsersController.php:691;744;790
+msgid "Estado de su oferta en"
+msgstr "Your offer status in"
+
+#: Controller/UsersController.php:722
+msgid "Oferta denegada"
+msgstr "Offer rejected"
+
+#: Controller/UsersController.php:732
+#: Controller/Component/TextsComponent.php:75
+msgid "Aceptada"
+msgstr "Accepted"
+
+#: Controller/UsersController.php:774
+msgid "Oferta aceptada"
+msgstr "Offer accepted"
+
+#: Controller/UsersController.php:783
+#: Controller/Component/TextsComponent.php:74
+msgid "Pendiente"
+msgstr "Pending "
+
+#: Controller/UsersController.php:818
+#: Controller/Component/TextsComponent.php:121
+msgid "Oferta pendiente"
+msgstr "Pending offer"
+
+#: Controller/UsersController.php:839
+msgid "La contraseña o el correo son incorrectos"
+msgstr "The password or the email are incorrect"
+
+#: Controller/UsersController.php:847
+msgid "Tu sesión ha terminado"
+msgstr "Your session has expired"
+
+#: Controller/UsersController.php:896
+msgid "Has solicitado el cambio de contraseña en: "
+msgstr "You requested to change your password on:"
+
+#: Controller/UsersController.php:919
+msgid "Revisa tu correo electrónico"
+msgstr "Check your email address"
+
+#: Controller/UsersController.php:924
+msgid "El correo no se encuentra registrado"
+msgstr "This email is not registered"
+
+#: Controller/Component/TextsComponent.php:17
+msgid "Descripción"
+msgstr "Description"
+
+#: Controller/Component/TextsComponent.php:18;317
+msgid "Seleccióna una opción"
+msgstr "Choose one option"
+
+#: Controller/Component/TextsComponent.php:19
+msgid "O bien"
+msgstr "Or"
+
+#: Controller/Component/TextsComponent.php:20
+msgid "Disponible"
+msgstr "Available"
+
+#: Controller/Component/TextsComponent.php:21;268;319;320;342
+msgid "Ciudad"
+msgstr "City"
+
+#: Controller/Component/TextsComponent.php:22
+msgid "Ciudad, Código postal"
+msgstr "City, Postal code"
+
+#: Controller/Component/TextsComponent.php:23;290
+msgid "Desde"
+msgstr "From"
+
+#: Controller/Component/TextsComponent.php:24
+msgid "SC"
+msgstr "SC"
+
+#: Controller/Component/TextsComponent.php:25
+msgid "Código"
+msgstr "Code"
+
+#: Controller/Component/TextsComponent.php:26;291
+msgid "Hasta"
+msgstr "To"
+
+#: Controller/Component/TextsComponent.php:27;366
+msgid "Buscar"
+msgstr "Search"
+
+#: Controller/Component/TextsComponent.php:28
+msgid "Buscador de empresas"
+msgstr "Find a Rental Company - Crane Dealer - Service provider near me"
+
+#: Controller/Component/TextsComponent.php:29;338
+msgid "Empresa"
+msgstr "Company"
+
+#: Controller/Component/TextsComponent.php:30
+msgid "Iniciar sesión / registrate"
+msgstr "Start session / register"
+
+#: Controller/Component/TextsComponent.php:31
+msgid "Grúa"
+msgstr "Crane"
+
+#: Controller/Component/TextsComponent.php:32
+msgid "Panel de control"
+msgstr "Control panel"
+
+#: Controller/Component/TextsComponent.php:33
+msgid "Inicia sesión ahora"
+msgstr "Start session now"
+
+#: Controller/Component/TextsComponent.php:34
+msgid "Regístrate ahora"
+msgstr "Register now"
+
+#: Controller/Component/TextsComponent.php:35
+msgid "¿No tienes una cuenta?"
+msgstr "¿Don't have an account?"
+
+#: Controller/Component/TextsComponent.php:36
+msgid "Cuenta"
+msgstr "Account"
+
+#: Controller/Component/TextsComponent.php:37
+msgid "Miembros"
+msgstr "Members"
+
+#: Controller/Component/TextsComponent.php:38
+msgid "Mi cuenta"
+msgstr "My account"
+
+#: Controller/Component/TextsComponent.php:39
+msgid "Inicio"
+msgstr "Home"
+
+#: Controller/Component/TextsComponent.php:40
+msgid "Buscador personalizado"
+msgstr "Find a crane near me"
+
+#: Controller/Component/TextsComponent.php:41;480
+msgid "Publica tu grua"
+msgstr "Publish my crane"
+
+#: Controller/Component/TextsComponent.php:42
+msgid "Más información"
+msgstr "More information"
+
+#: Controller/Component/TextsComponent.php:43
+msgid "Suscríbete"
+msgstr "Subscribe"
+
+#: Controller/Component/TextsComponent.php:44
+msgid "Nosotros"
+msgstr "About us"
+
+#: Controller/Component/TextsComponent.php:45
+msgid "Servicios"
+msgstr "User Services"
+
+#: Controller/Component/TextsComponent.php:46
+msgid "Contáctenos"
+msgstr "Contact us"
+
+#: Controller/Component/TextsComponent.php:47
+msgid "ejemplo@tuemail.com"
+msgstr "example@youremail.com"
+
+#: Controller/Component/TextsComponent.php:49
+msgid "Síguenos"
+msgstr "Follow us"
+
+#: Controller/Component/TextsComponent.php:50
+msgid "Teléfono USA"
+msgstr "Phone USA"
+
+#: Controller/Component/TextsComponent.php:51
+msgid "Copyright © Todos los derechos reservados."
+msgstr "Copyright © All rights reserved"
+
+#: Controller/Component/TextsComponent.php:52
+msgid "Diseño y desarollo por"
+msgstr "Designed by"
+
+#: Controller/Component/TextsComponent.php:53
+msgid "Habla con el vendedor"
+msgstr "Contact seller"
+
+#: Controller/Component/TextsComponent.php:54;149;262
+msgid "Ofertar"
+msgstr "Make an offer"
+
+#: Controller/Component/TextsComponent.php:55
+msgid "Alerta generada exitosamente"
+msgstr "Email alert generated successfully"
+
+#: Controller/Component/TextsComponent.php:56
+msgid "Mis ofertas"
+msgstr "My offers"
+
+#: Controller/Component/TextsComponent.php:57
+msgid "Mi oferta"
+msgstr "My offer"
+
+#: Controller/Component/TextsComponent.php:59
+msgid ""
+"Estas usando una cuenta gratuita, cambiate a Premium para obtener todos los "
+"beneficios de"
+msgstr ""
+"You are currently using a free account, change to a PROFESSIONAL OR PREMIUM "
+"PLAN and access more benefits"
+
+#: Controller/Component/TextsComponent.php:60
+msgid "Uso de cookies en este sitio"
+msgstr "Use of cookies on this site"
+
+#: Controller/Component/TextsComponent.php:61
+msgid "Acepto el uso de cookies"
+msgstr "I accept the use of cookies on this site"
+
+#: Controller/Component/TextsComponent.php:62
+msgid ""
+"El uso de cookies permite a nuestra plataforma guardar información de forma "
+"momentanea en su explorador para facilitar y mejorar la experiencia en "
+"nuestro sitio web"
+msgstr ""
+"The use of cookies enables our platform to momentarily store information in "
+"your browser to facilitate and enhance the experience on our website"
+
+#: Controller/Component/TextsComponent.php:63
+msgid "El e-mail ya se encuentra registrado"
+msgstr "This e-mail is already registered"
+
+#: Controller/Component/TextsComponent.php:64;156
+msgid "Contraoferta"
+msgstr "Counteroffer"
+
+#: Controller/Component/TextsComponent.php:65
+msgid "Introduzca su oferta en USD"
+msgstr "Enter your offer in USD"
+
+#: Controller/Component/TextsComponent.php:66
+msgid "Publicaciones"
+msgstr "Publications"
+
+#: Controller/Component/TextsComponent.php:67
+msgid "Tu perfil"
+msgstr "Your profile"
+
+#: Controller/Component/TextsComponent.php:68
+msgid "Mandar Email"
+msgstr "Send email"
+
+#: Controller/Component/TextsComponent.php:69;239
+msgid "Estado"
+msgstr "Status"
+
+#: Controller/Component/TextsComponent.php:70
+msgid "Activa"
+msgstr "Active"
+
+#: Controller/Component/TextsComponent.php:71
+msgid "Denegada"
+msgstr "Denied"
+
+#: Controller/Component/TextsComponent.php:72
+msgid "Inactiva"
+msgstr "Inactive"
+
+#: Controller/Component/TextsComponent.php:73
+msgid "¿olvidó su contraseña?"
+msgstr "¿Forgot your password?"
+
+#: Controller/Component/TextsComponent.php:76
+msgid "Cargando información"
+msgstr "Loading information..."
+
+#: Controller/Component/TextsComponent.php:77
+msgid "Disponible para:"
+msgstr "Available for:"
+
+#: Controller/Component/TextsComponent.php:78
+msgid "Comparar Grúas"
+msgstr "Compare Cranes"
+
+#: Controller/Component/TextsComponent.php:79
+msgid "Cambiate a premium"
+msgstr "Change to premium"
+
+#: Controller/Component/TextsComponent.php:80
+msgid "Revisa tu perfil"
+msgstr "Check your profile"
+
+#: Controller/Component/TextsComponent.php:81
+msgid "Cargando ciudades..."
+msgstr "Loading cities..."
+
+#: Controller/Component/TextsComponent.php:82
+msgid "Cargando..."
+msgstr "Loading..."
+
+#: Controller/Component/TextsComponent.php:83;150
+msgid "Ver precio"
+msgstr "Check price"
+
+#: Controller/Component/TextsComponent.php:84;260
+msgid "Alquiler"
+msgstr "Rent"
+
+#: Controller/Component/TextsComponent.php:85;112;113
+msgid "Compra"
+msgstr "Purchase"
+
+#: Controller/Component/TextsComponent.php:86
+msgid "Publica tu grúa"
+msgstr "Publish your crane"
+
+#: Controller/Component/TextsComponent.php:87
+msgid "Oferta generada exitósamente"
+msgstr "Awesome! My offer has been submitted successfully"
+
+#: Controller/Component/TextsComponent.php:88
+msgid "Tipo de cuenta"
+msgstr "Type of account"
+
+#: Controller/Component/TextsComponent.php:89
+msgid "Datos del último pago realizado"
+msgstr "Last payment information"
+
+#: Controller/Component/TextsComponent.php:90
+msgid ""
+"Oferta generada exitósamente, se han enviado solicitudes a publicantes "
+"relacionados"
+msgstr ""
+"Offer generated successfully, per your instructions it has been sent to "
+"other registered related companies"
+
+#: Controller/Component/TextsComponent.php:92
+msgid "Motor grúa"
+msgstr "Crane Engine"
+
+#: Controller/Component/TextsComponent.php:93
+msgid "Serial del camión"
+msgstr "Vehicle serial number"
+
+#: Controller/Component/TextsComponent.php:94
+msgid "Certificada"
+msgstr "Certified"
+
+#: Controller/Component/TextsComponent.php:95
+msgid "Gancho pasteca"
+msgstr "Hook block"
+
+#: Controller/Component/TextsComponent.php:96
+msgid "Bola"
+msgstr "Ball"
+
+#: Controller/Component/TextsComponent.php:97
+msgid "Winches"
+msgstr "Winches"
+
+#: Controller/Component/TextsComponent.php:98
+msgid "Indicador de carga"
+msgstr "Load indicator"
+
+#: Controller/Component/TextsComponent.php:99
+msgid "Configuración Ejes"
+msgstr "Axle configuration"
+
+#: Controller/Component/TextsComponent.php:100
+msgid "Número de ejes"
+msgstr "Axle number"
+
+#: Controller/Component/TextsComponent.php:101
+msgid "Suspensión"
+msgstr "Suspension"
+
+#: Controller/Component/TextsComponent.php:102
+msgid "Tamaño de las llantas delanteras"
+msgstr "Front tires size"
+
+#: Controller/Component/TextsComponent.php:103
+msgid "Referencia grúa"
+msgstr "Crane reference"
+
+#: Controller/Component/TextsComponent.php:104
+msgid "Tamaño de las llantas traseras"
+msgstr "Rear tires size"
+
+#: Controller/Component/TextsComponent.php:105
+msgid "Valor día con operador"
+msgstr "Daily rate with operator"
+
+#: Controller/Component/TextsComponent.php:106
+msgid "Valor semana con operador"
+msgstr "Weekly rate with operator"
+
+#: Controller/Component/TextsComponent.php:107
+msgid "Valor mes con operador"
+msgstr "Monthly rate with operator"
+
+#: Controller/Component/TextsComponent.php:108
+msgid "Valor día sin operador"
+msgstr "Daily rate without operator"
+
+#: Controller/Component/TextsComponent.php:109
+msgid "Valor semana sin operador"
+msgstr "Weekly rate without operator"
+
+#: Controller/Component/TextsComponent.php:110
+msgid "Valor mes sin operador"
+msgstr "Monthly rate with operator"
+
+#: Controller/Component/TextsComponent.php:111
+msgid ""
+"Descripción corta de la empresa. Ésta información aparecerá en tu micrositio"
+msgstr ""
+"Short description of your company.  This information will appear in your "
+"microsite"
+
+#: Controller/Component/TextsComponent.php:115
+msgid "Selecciona el tipo de registro"
+msgstr "Choose registration type"
+
+#: Controller/Component/TextsComponent.php:116
+msgid "Registrate como usuario"
+msgstr "Register as an end user"
+
+#: Controller/Component/TextsComponent.php:117
+msgid "Registrate como empresa"
+msgstr "Register as a company"
+
+#: Controller/Component/TextsComponent.php:118
+msgid "NIT"
+msgstr "TAX ID #"
+
+#: Controller/Component/TextsComponent.php:119
+msgid "Aceptar oferta"
+msgstr "Accept offer"
+
+#: Controller/Component/TextsComponent.php:120
+msgid "Rechazar oferta"
+msgstr "Reject offer"
+
+#: Controller/Component/TextsComponent.php:122
+msgid "Publicidad"
+msgstr "Advertising"
+
+#: Controller/Component/TextsComponent.php:123
+msgid "Sr(a)"
+msgstr "Mr./Mrs."
+
+#: Controller/Component/TextsComponent.php:124
+msgid "Fecha de repuesta"
+msgstr "Answer date"
+
+#: Controller/Component/TextsComponent.php:127
+msgid "América"
+msgstr "America"
+
+#: Controller/Component/TextsComponent.php:128
+msgid "África"
+msgstr "Africa"
+
+#: Controller/Component/TextsComponent.php:129
+msgid "Asia"
+msgstr "Asia"
+
+#: Controller/Component/TextsComponent.php:130
+msgid "Europa"
+msgstr "Europe"
+
+#: Controller/Component/TextsComponent.php:131
+msgid "Oceanía"
+msgstr "Oceania"
+
+#: Controller/Component/TextsComponent.php:132
+msgid "Australia"
+msgstr "Australia"
+
+#: Controller/Component/TextsComponent.php:133
+msgid "Sur América"
+msgstr "South America"
+
+#: Controller/Component/TextsComponent.php:134
+msgid "Norte América"
+msgstr "North America"
+
+#: Controller/Component/TextsComponent.php:135
+msgid "Premium plan USD"
+msgstr "Plan Premium USD"
+
+#: Controller/Component/TextsComponent.php:136
+msgid "Professional plan USD"
+msgstr "Plan profesional USD"
+
+#: Controller/Component/TextsComponent.php:137
+msgid "Valor banner Premium rotativo USD"
+msgstr "Premium rotating banner USD"
+
+#: Controller/Component/TextsComponent.php:138
+msgid "Valor banner + video USD"
+msgstr "Banner + video USD"
+
+#: Controller/Component/TextsComponent.php:139
+msgid "Valor banner estático USD"
+msgstr "Static banner USD"
+
+#: Controller/Component/TextsComponent.php:140
+msgid "Valor banner interno USD"
+msgstr "Internal banner USD"
+
+#: Controller/Component/TextsComponent.php:141
+msgid "Valor banner + logotipo inicio USD"
+msgstr "Banner + logo home USD"
+
+#: Controller/Component/TextsComponent.php:142
+msgid "Publicidad Bussiness"
+msgstr "Business Advertising"
+
+#: Controller/Component/TextsComponent.php:143
+msgid "Publicidad Premium"
+msgstr "Premium Advertising"
+
+#: Controller/Component/TextsComponent.php:144
+msgid "Publicidad Basic"
+msgstr "Basic Advertising"
+
+#: Controller/Component/TextsComponent.php:145
+msgid "Publicidad Interna"
+msgstr "Internal Advertising"
+
+#: Controller/Component/TextsComponent.php:146
+msgid "Publicidad + plus"
+msgstr "Advertising + plus"
+
+#: Controller/Component/TextsComponent.php:151;263
+msgid "Rentar"
+msgstr "Rent"
+
+#: Controller/Component/TextsComponent.php:152
+msgid "Ingresa la información correspondiente"
+msgstr "Enter the appropriate information"
+
+#: Controller/Component/TextsComponent.php:153
+msgid "Rentar grúa"
+msgstr "Rent crane"
+
+#: Controller/Component/TextsComponent.php:154
+msgid ""
+"Esta solicitud le llegará al dueño de ésta grúa y de otras grúas con "
+"caracteristicas similares."
+msgstr ""
+"This rental request will be sent to this company and to other registered "
+"companies with cranes with similar characteristics."
+
+#: Controller/Component/TextsComponent.php:155
+msgid "Valor en USD"
+msgstr "Price in USD"
+
+#: Controller/Component/TextsComponent.php:157
+msgid "Publicante"
+msgstr "Advertiser"
+
+#: Controller/Component/TextsComponent.php:158
+msgid "Descripción del proyecto"
+msgstr "Project description"
+
+#: Controller/Component/TextsComponent.php:159
+msgid "Fecha inicio proyecto"
+msgstr "Project start date"
+
+#: Controller/Component/TextsComponent.php:160
+msgid "Fecha finalización proyecto"
+msgstr "Project end date"
+
+#: Controller/Component/TextsComponent.php:161
+msgid "¿Requiere Operador?"
+msgstr "¿Need an Operator?"
+
+#: Controller/Component/TextsComponent.php:162
+msgid "Operador"
+msgstr "Operator"
+
+#: Controller/Component/TextsComponent.php:163
+msgid "Cotizar ambas opciones"
+msgstr "Quote both options"
+
+#: Controller/Component/TextsComponent.php:164
+msgid "Ambas opciones"
+msgstr "Both options"
+
+#: Controller/Component/TextsComponent.php:165
+msgid "Ubicacion del proyecto, País"
+msgstr "Project location, Country"
+
+#: Controller/Component/TextsComponent.php:166
+msgid "Ubicacion del proyecto, Ciudad"
+msgstr "Project location, City"
+
+#: Controller/Component/TextsComponent.php:167
+msgid "Ubicacion del proyecto, Estado"
+msgstr "Project location, State"
+
+#: Controller/Component/TextsComponent.php:168
+msgid "Ubicacion del proyecto, Código postal"
+msgstr "Project location, Postal code"
+
+#: Controller/Component/TextsComponent.php:169
+msgid "Si"
+msgstr "Yes"
+
+#: Controller/Component/TextsComponent.php:170
+msgid "No"
+msgstr "No"
+
+#: Controller/Component/TextsComponent.php:173
+msgid "Ofertas recibidas"
+msgstr "Received offers"
+
+#: Controller/Component/TextsComponent.php:174
+msgid "Cliente"
+msgstr "Customer"
+
+#: Controller/Component/TextsComponent.php:175
+msgid "Oferta"
+msgstr "Offer"
+
+#: Controller/Component/TextsComponent.php:178
+msgid "Directorio empresarial"
+msgstr "Business Directory"
+
+#: Controller/Component/TextsComponent.php:182
+msgid "Listado"
+msgstr "Crane list"
+
+#: Controller/Component/TextsComponent.php:183
+msgid "Galería"
+msgstr "Crane Gallery"
+
+#: Controller/Component/TextsComponent.php:184
+msgid "Miniaturas"
+msgstr "Miniature Gallery"
+
+#: Controller/Component/TextsComponent.php:185
+msgid "Mapa"
+msgstr "Map"
+
+#: Controller/Component/TextsComponent.php:186;379
+msgid "Ver/Ocultar mapa"
+msgstr "See/Hide map"
+
+#: Controller/Component/TextsComponent.php:187
+msgid "Descargar"
+msgstr "Download"
+
+#: Controller/Component/TextsComponent.php:188
+msgid "Video"
+msgstr "Video"
+
+#: Controller/Component/TextsComponent.php:191
+msgid "Tipo de industria a la que pertenece"
+msgstr "What is your Business/Industry Type?"
+
+#: Controller/Component/TextsComponent.php:192
+msgid "Tipo de industria"
+msgstr "Type of Industry"
+
+#: Controller/Component/TextsComponent.php:193
+msgid "Contratista, Construcción"
+msgstr "Construction, Contractor, Consultant"
+
+#: Controller/Component/TextsComponent.php:194
+msgid "Alquiler grúas y maquinaria pesada"
+msgstr "Crane and Heavy Equipment Rental"
+
+#: Controller/Component/TextsComponent.php:195;218
+msgid "Transporte especializado"
+msgstr "Heavy Haul & Specialized Transportation"
+
+#: Controller/Component/TextsComponent.php:196
+msgid "Servicios mineria oil & gas"
+msgstr "Mining, Oil & Gas Services"
+
+#: Controller/Component/TextsComponent.php:197
+msgid "Distribuidor maquinaria nueva"
+msgstr "New Heavy Equipment Dealer"
+
+#: Controller/Component/TextsComponent.php:198
+msgid "Distribuidor Maquinaria Usada"
+msgstr "Used heavy equipment Dealer"
+
+#: Controller/Component/TextsComponent.php:199
+msgid "Energia eólica"
+msgstr "Windpower"
+
+#: Controller/Component/TextsComponent.php:200
+msgid "Fabricante de equipos de pesaje y transporte"
+msgstr "Manufacturer of Lifting, Rigging & Transport equipment"
+
+#: Controller/Component/TextsComponent.php:201
+msgid "Servicio técnico de grúas"
+msgstr "Crane Parts, Service and Repair"
+
+#: Controller/Component/TextsComponent.php:202
+msgid "Empresa certificadora & asociaciones"
+msgstr "Safety, Training & Crane Associations"
+
+#: Controller/Component/TextsComponent.php:203;399
+msgid "Otros"
+msgstr "Other Related Industry"
+
+#: Controller/Component/TextsComponent.php:206
+msgid "¿Qué tipo de equipo compra, usa o vende?"
+msgstr "What type of Equipment do you purchase, use or sell?"
+
+#: Controller/Component/TextsComponent.php:207
+msgid "Equipamento nuevo"
+msgstr "New equipment"
+
+#: Controller/Component/TextsComponent.php:208
+msgid "No compro equipamento"
+msgstr "We do not buy equipment"
+
+#: Controller/Component/TextsComponent.php:209
+msgid "Equipamento usado"
+msgstr "Used equipment"
+
+#: Controller/Component/TextsComponent.php:210
+msgid "Grúas mobiles"
+msgstr "Mobile Cranes (All Terrain)"
+
+#: Controller/Component/TextsComponent.php:211
+msgid "Grúas hidráulicas camión"
+msgstr "Hydraulic Truck Cranes"
+
+#: Controller/Component/TextsComponent.php:212
+msgid "Grúas RT"
+msgstr "Rough Terrain Cranes"
+
+#: Controller/Component/TextsComponent.php:213
+msgid "Grúas oruga"
+msgstr "Crawler Cranes"
+
+#: Controller/Component/TextsComponent.php:214
+msgid "Grúas torre"
+msgstr "Tower Cranes"
+
+#: Controller/Component/TextsComponent.php:215
+msgid "Grúas tipo stinger/plataforma"
+msgstr "Boom Trucks / Loader Cranes"
+
+#: Controller/Component/TextsComponent.php:216
+msgid "Grúas hidráulicas de pórtico"
+msgstr "Hydraulic Gantry Cranes"
+
+#: Controller/Component/TextsComponent.php:217
+msgid "Grúas muelle"
+msgstr "Dockside/Offshore Cranes"
+
+#: Controller/Component/TextsComponent.php:219
+msgid "Telehandlers"
+msgstr "Telehandlers"
+
+#: Controller/Component/TextsComponent.php:220
+msgid "Certificación/capacitación"
+msgstr "Safety & Training"
+
+#: Controller/Component/TextsComponent.php:221
+msgid "Equipamento para Izaje"
+msgstr "Rigging equipment"
+
+#: Controller/Component/TextsComponent.php:222
+msgid "Componentes"
+msgstr "Components"
+
+#: Controller/Component/TextsComponent.php:226
+msgid "¿Su empresa compra equipamiento Nuevo o Usado?"
+msgstr "¿Does your company purchase used or new equipment?"
+
+#: Controller/Component/TextsComponent.php:227
+msgid "Equipo nuevo"
+msgstr "New equipment"
+
+#: Controller/Component/TextsComponent.php:228
+msgid "Equipo usado"
+msgstr "Used equipment"
+
+#: Controller/Component/TextsComponent.php:229
+msgid "No compramos equipamento"
+msgstr "We do not buy equipment"
+
+#: Controller/Component/TextsComponent.php:232
+msgid "Referencia comercial"
+msgstr "Business reference"
+
+#: Controller/Component/TextsComponent.php:234
+msgid "Adquiere tu plan"
+msgstr "Get your plan"
+
+#: Controller/Component/TextsComponent.php:235
+msgid "Plan premium plataforma NEXTCRANE"
+msgstr "Premium plan NEXTCRANE"
+
+#: Controller/Component/TextsComponent.php:236
+msgid "Plan premium plataforma NEXTCRANE 6 Meses"
+msgstr "Premium plan NEXTCRANE 6 months"
+
+#: Controller/Component/TextsComponent.php:237
+msgid "Estado de su transacción"
+msgstr "Transaction status"
+
+#: Controller/Component/TextsComponent.php:238
+msgid "Transacción"
+msgstr "Transaction"
+
+#: Controller/Component/TextsComponent.php:240
+msgid "Fecha de la transacción"
+msgstr "Transaction date"
+
+#: Controller/Component/TextsComponent.php:241
+msgid "Valor"
+msgstr "Price"
+
+#: Controller/Component/TextsComponent.php:242
+msgid "Moneda"
+msgstr "Currency"
+
+#: Controller/Component/TextsComponent.php:243;356
+msgid "Referencia"
+msgstr "Reference"
+
+#: Controller/Component/TextsComponent.php:244
+msgid "Plan adquirido"
+msgstr "Purchased plan"
+
+#: Controller/Component/TextsComponent.php:245
+msgid "Inicio del plan"
+msgstr "Start plan date"
+
+#: Controller/Component/TextsComponent.php:246
+msgid "Terminación del plan"
+msgstr "End plan date"
+
+#: Controller/Component/TextsComponent.php:247
+msgid "Tipo de plan"
+msgstr "Type of plan"
+
+#: Controller/Component/TextsComponent.php:248
+msgid "Nombre del usuario"
+msgstr "User name"
+
+#: Controller/Component/TextsComponent.php:249
+msgid "Información del usuario"
+msgstr "User information"
+
+#: Controller/Component/TextsComponent.php:254
+msgid "Filtrar por"
+msgstr "Filter by"
+
+#: Controller/Component/TextsComponent.php:255
+msgid "Buscar grúa"
+msgstr "Search crane"
+
+#: Controller/Component/TextsComponent.php:256
+msgid "Buscar partes"
+msgstr "Search parts"
+
+#: Controller/Component/TextsComponent.php:257
+msgid "Para la venta"
+msgstr "For sale"
+
+#: Controller/Component/TextsComponent.php:258
+msgid "Para la renta"
+msgstr "For rent"
+
+#: Controller/Component/TextsComponent.php:259
+msgid "Venta"
+msgstr "Sale"
+
+#: Controller/Component/TextsComponent.php:261
+msgid "Oferta en USD, Presiona Enter para hacer tu oferta"
+msgstr "Offer in USD, Press Enter to make your offer"
+
+#: Controller/Component/TextsComponent.php:264
+msgid "Tipo"
+msgstr "Type"
+
+#: Controller/Component/TextsComponent.php:265;362
+msgid "Fabricante"
+msgstr "Manufacturer"
+
+#: Controller/Component/TextsComponent.php:266
+msgid "Motor"
+msgstr "Engine"
+
+#: Controller/Component/TextsComponent.php:267
+msgid "Modelo"
+msgstr "Model"
+
+#: Controller/Component/TextsComponent.php:269
+msgid "Estado/Provincia"
+msgstr "State/Province"
+
+#: Controller/Component/TextsComponent.php:270 Template/Posts/index.ctp:226
+msgid "Promoción"
+msgstr "Promotion"
+
+#: Controller/Component/TextsComponent.php:271
+msgid "Continente"
+msgstr "Continent"
+
+#: Controller/Component/TextsComponent.php:272;345
+msgid "Código postal"
+msgstr "Postal code"
+
+#: Controller/Component/TextsComponent.php:273
+msgid "Enviar a todos las empresas relacionadas"
+msgstr "Send to all registered related companies"
+
+#: Controller/Component/TextsComponent.php:274
+msgid "Grúas relacionadas"
+msgstr "Related cranes"
+
+#: Controller/Component/TextsComponent.php:275
+msgid "Relacionados"
+msgstr "Related"
+
+#: Controller/Component/TextsComponent.php:276
+msgid "Acepto términos y condiciones"
+msgstr "I accept the terms and conditions"
+
+#: Controller/Component/TextsComponent.php:277;278;321;343
+msgid "País"
+msgstr "Country"
+
+#: Controller/Component/TextsComponent.php:279
+msgid "Precio"
+msgstr "Price"
+
+#: Controller/Component/TextsComponent.php:280
+msgid "Vendida"
+msgstr "Sold"
+
+#: Controller/Component/TextsComponent.php:281
+msgid "Alquilada"
+msgstr "Rented"
+
+#: Controller/Component/TextsComponent.php:282
+msgid "En negociación"
+msgstr "Deal pending"
+
+#: Controller/Component/TextsComponent.php:283
+msgid "Mes"
+msgstr "Month"
+
+#: Controller/Component/TextsComponent.php:284;360;361
+msgid "Año"
+msgstr "Year"
+
+#: Controller/Component/TextsComponent.php:285
+msgid "Día"
+msgstr "Day"
+
+#: Controller/Component/TextsComponent.php:286
+msgid "Semana"
+msgstr "Week"
+
+#: Controller/Component/TextsComponent.php:287
+msgid "Precio anterior"
+msgstr "Previous price"
+
+#: Controller/Component/TextsComponent.php:288
+msgid "N/A"
+msgstr "N/A"
+
+#: Controller/Component/TextsComponent.php:289
+msgid "Adquierelo ahora"
+msgstr "Buy it now"
+
+#: Controller/Component/TextsComponent.php:292
+msgid "Cabina"
+msgstr "Cabin"
+
+#: Controller/Component/TextsComponent.php:293 Template/Users/ranking.ctp:194
+msgid "Millas"
+msgstr "Miles"
+
+#: Controller/Component/TextsComponent.php:294
+msgid "Horas"
+msgstr "Hours"
+
+#: Controller/Component/TextsComponent.php:295
+msgid "Contrapeso"
+msgstr "Counterweight"
+
+#: Controller/Component/TextsComponent.php:296
+msgid "Transmisión"
+msgstr "Transmission"
+
+#: Controller/Component/TextsComponent.php:297
+msgid "Condición"
+msgstr "Condition"
+
+#: Controller/Component/TextsComponent.php:298
+msgid "Blqoue"
+msgstr "Hook Block"
+
+#: Controller/Component/TextsComponent.php:299
+msgid "Boom"
+msgstr "Boom"
+
+#: Controller/Component/TextsComponent.php:300
+msgid "Jib"
+msgstr "Jib"
+
+#: Controller/Component/TextsComponent.php:301;357
+msgid "Capacidad"
+msgstr "Capacity"
+
+#: Controller/Component/TextsComponent.php:302
+msgid "Destacados"
+msgstr "Featured"
+
+#: Controller/Component/TextsComponent.php:303
+msgid "Propietario"
+msgstr "Owner"
+
+#: Controller/Component/TextsComponent.php:304
+msgid "Fecha de publicación"
+msgstr "Publication date"
+
+#: Controller/Component/TextsComponent.php:305
+msgid "Puntuación"
+msgstr "Score"
+
+#: Controller/Component/TextsComponent.php:306
+msgid "Ubicación"
+msgstr "Location"
+
+#: Controller/Component/TextsComponent.php:307
+msgid "Limpiar"
+msgstr "Clear"
+
+#: Controller/Component/TextsComponent.php:308
+msgid "Estas en"
+msgstr "You are in"
+
+#: Controller/Component/TextsComponent.php:309
+msgid "Estas en el perfil"
+msgstr "You are in the profile"
+
+#: Controller/Component/TextsComponent.php:310
+msgid "Ingresa un valor numérico válido"
+msgstr "Enter a valid numeric value"
+
+#: Controller/Component/TextsComponent.php:311
+msgid "La oferta mínima es"
+msgstr "The minimum offer is"
+
+#: Controller/Component/TextsComponent.php:312
+msgid "Dudas, sugerencias, comentarios"
+msgstr "Questions, suggestions , comments"
+
+#: Controller/Component/TextsComponent.php:313
+msgid "E-mail"
+msgstr "E-mail"
+
+#: Controller/Component/TextsComponent.php:314
+msgid "Nombre"
+msgstr "Name"
+
+#: Controller/Component/TextsComponent.php:315
+msgid "Apellidos"
+msgstr "Last names"
+
+#: Controller/Component/TextsComponent.php:316
+msgid "Identificación"
+msgstr "ID#"
+
+#: Controller/Component/TextsComponent.php:318
+msgid "Dirección"
+msgstr "Address"
+
+#: Controller/Component/TextsComponent.php:322;323;341
+msgid "Teléfono"
+msgstr "Telephone"
+
+#: Controller/Component/TextsComponent.php:324;330
+msgid "Celular"
+msgstr "Mobile phone"
+
+#: Controller/Component/TextsComponent.php:325
+msgid "Indicativo"
+msgstr "Code"
+
+#: Controller/Component/TextsComponent.php:326
+msgid "Indicativo país"
+msgstr "Country code"
+
+#: Controller/Component/TextsComponent.php:327;328
+msgid "Código área"
+msgstr "Area code"
+
+#: Controller/Component/TextsComponent.php:329
+msgid "Área"
+msgstr "Area"
+
+#: Controller/Component/TextsComponent.php:331
+msgid "Repite contraseña"
+msgstr "Retype password"
+
+#: Controller/Component/TextsComponent.php:332;417
+msgid "Contraseña"
+msgstr "Password"
+
+#: Controller/Component/TextsComponent.php:333
+msgid "Crear"
+msgstr "Create"
+
+#: Controller/Component/TextsComponent.php:334
+msgid "Ingresar"
+msgstr "Log In"
+
+#: Controller/Component/TextsComponent.php:335
+msgid "Digita un correo electrónico válido"
+msgstr "Type a valid e-mail address"
+
+#: Controller/Component/TextsComponent.php:336
+msgid "Salir"
+msgstr "Sign out"
+
+#: Controller/Component/TextsComponent.php:337
+msgid "Empresa/Responsable"
+msgstr "Company "
+
+#: Controller/Component/TextsComponent.php:339
+msgid "Dirección de la empresa"
+msgstr "Company address"
+
+#: Controller/Component/TextsComponent.php:340
+msgid "E-mail empresarial"
+msgstr "Business email"
+
+#: Controller/Component/TextsComponent.php:344
+msgid "Cargo"
+msgstr "Job title"
+
+#: Controller/Component/TextsComponent.php:346
+msgid "Sector empresarial"
+msgstr "Business Sector"
+
+#: Controller/Component/TextsComponent.php:347
+msgid "Enviar mensaje"
+msgstr "Send request"
+
+#: Controller/Component/TextsComponent.php:348
+msgid "Imagen"
+msgstr "Image"
+
+#: Controller/Component/TextsComponent.php:349
+msgid "URL para ingresar"
+msgstr "URL to access"
+
+#: Controller/Component/TextsComponent.php:350
+msgid "Enviar"
+msgstr "Send"
+
+#: Controller/Component/TextsComponent.php:351
+msgid "Acciones"
+msgstr "Actions"
+
+#: Controller/Component/TextsComponent.php:354
+msgid "Orden original"
+msgstr "Original order"
+
+#: Controller/Component/TextsComponent.php:355
+msgid "Mejor precio"
+msgstr "Best price"
+
+#: Controller/Component/TextsComponent.php:358
+msgid "El valor mínimo es mayor que el máximo en toneladas"
+msgstr "The minimum value is greater than the maximum in tons"
+
+#: Controller/Component/TextsComponent.php:359
+msgid "El valor mínimo es mayor que el máximo en Años"
+msgstr "The minimum value is greater than the maximum in years"
+
+#: Controller/Component/TextsComponent.php:363
+msgid "Reciente"
+msgstr "Recent"
+
+#: Controller/Component/TextsComponent.php:364;486;490
+msgid "Estos son los resultados de tu busqueda"
+msgstr "These are the results of your search"
+
+#: Controller/Component/TextsComponent.php:365
+msgid "¿Qué estas buscando?"
+msgstr "¿What are you looking for?"
+
+#: Controller/Component/TextsComponent.php:370
+msgid "Anterior"
+msgstr "Previous"
+
+#: Controller/Component/TextsComponent.php:371
+msgid "Siguiente"
+msgstr "Next"
+
+#: Controller/Component/TextsComponent.php:372
+msgid "Página"
+msgstr "Page"
+
+#: Controller/Component/TextsComponent.php:373
+msgid "de"
+msgstr "of"
+
+#: Controller/Component/TextsComponent.php:374
+msgid "mostrando"
+msgstr "Showing"
+
+#: Controller/Component/TextsComponent.php:375
+msgid "registro de"
+msgstr "Register of"
+
+#: Controller/Component/TextsComponent.php:378
+msgid "Nuevos arribos"
+msgstr "New listings"
+
+#: Controller/Component/TextsComponent.php:380
+msgid "Contactar al propietario"
+msgstr "Contact seller"
+
+#: Controller/Component/TextsComponent.php:381
+msgid "Micrositio del propietario"
+msgstr "Seller microsite"
+
+#: Controller/Component/TextsComponent.php:382
+msgid "Ampliar información"
+msgstr "Get more information"
+
+#: Controller/Component/TextsComponent.php:383
+msgid "Guardar en favoritos"
+msgstr "Save to favorites"
+
+#: Controller/Component/TextsComponent.php:384
+msgid "Quitar de favoritos"
+msgstr "Delete from favorites"
+
+#: Controller/Component/TextsComponent.php:385
+msgid "Ver datos de contacto"
+msgstr "Contact Seller"
+
+#: Controller/Component/TextsComponent.php:386
+msgid "Email de alerta"
+msgstr "Create email alert"
+
+#: Controller/Component/TextsComponent.php:387
+msgid "Imprimir cotización"
+msgstr "Print my quote"
+
+#: Controller/Component/TextsComponent.php:388
+msgid "Cotización"
+msgstr "Print my quote"
+
+#: Controller/Component/TextsComponent.php:389
+msgid "Compartir grúa"
+msgstr "Share this crane"
+
+#: Controller/Component/TextsComponent.php:390
+msgid "Publicar grúa"
+msgstr "Publish my crane"
+
+#: Controller/Component/TextsComponent.php:393
+msgid "Publicado"
+msgstr "Published"
+
+#: Controller/Component/TextsComponent.php:394
+msgid "ültima actualización"
+msgstr "Last update"
+
+#: Controller/Component/TextsComponent.php:395
+msgid "Especificaciones técnicas"
+msgstr "Technical specifications"
+
+#: Controller/Component/TextsComponent.php:396
+msgid "Estructura grúa"
+msgstr "Crane structure"
+
+#: Controller/Component/TextsComponent.php:397
+msgid "Estructura camión"
+msgstr "Truck structure"
+
+#: Controller/Component/TextsComponent.php:398
+msgid "Precios"
+msgstr "Prices"
+
+#: Controller/Component/TextsComponent.php:400
+msgid "Especificaciones"
+msgstr "Specifications"
+
+#: Controller/Component/TextsComponent.php:401
+msgid "Ver más detalles"
+msgstr "See more details"
+
+#: Controller/Component/TextsComponent.php:402
+msgid "Sub elementos"
+msgstr "Sub-elements"
+
+#: Controller/Component/TextsComponent.php:403
+msgid "Últimas grúas"
+msgstr "New Listings"
+
+#: Controller/Component/TextsComponent.php:404
+msgid "Grúas"
+msgstr "Cranes"
+
+#: Controller/Component/TextsComponent.php:405
+msgid "Serial de la grúa"
+msgstr "Crane serial number"
+
+#: Controller/Component/TextsComponent.php:406
+msgid "Fecha de la solicitud para la renta"
+msgstr "Date of application for rent"
+
+#: Controller/Component/TextsComponent.php:407
+msgid "Fecha de la solicitud para la venta"
+msgstr "Date of application for sale"
+
+#: Controller/Component/TextsComponent.php:408
+msgid "Manual de la grúa"
+msgstr "Crane manual"
+
+#: Controller/Component/TextsComponent.php:409
+msgid "Grúas publicadas"
+msgstr "Published cranes"
+
+#: Controller/Component/TextsComponent.php:412
+msgid "Regístrate con Facebook"
+msgstr "Register with Facebook"
+
+#: Controller/Component/TextsComponent.php:413
+msgid "Inicia sesión con Facebook"
+msgstr "Log in with Facebook"
+
+#: Controller/Component/TextsComponent.php:414
+msgid "No publicaremos nada sin tu permiso"
+msgstr "We will not publish anything without your permission"
+
+#: Controller/Component/TextsComponent.php:415
+msgid "Completa el siguiente formulario"
+msgstr "Complete the following form"
+
+#: Controller/Component/TextsComponent.php:416
+msgid "Ingresa los datos e inicia sesión"
+msgstr "Enter your information and sign in"
+
+#: Controller/Component/TextsComponent.php:418
+msgid "Confirmar contraseña"
+msgstr "Confirm password"
+
+#: Controller/Component/TextsComponent.php:419
+msgid "Actualizar contraseña"
+msgstr "Update password"
+
+#: Controller/Component/TextsComponent.php:420
+msgid "Actualizar información"
+msgstr "Update information"
+
+#: Controller/Component/TextsComponent.php:421 Template/Users/customize.ctp:306
+msgid "Continuar"
+msgstr "Continue"
+
+#: Controller/Component/TextsComponent.php:422
+msgid "Cambiar a empresarial"
+msgstr "Change to Business"
+
+#: Controller/Component/TextsComponent.php:423
+msgid "Acepto los Términos y condiciones"
+msgstr "I accept the terms and conditions"
+
+#: Controller/Component/TextsComponent.php:426
+msgid "Total publicaciones"
+msgstr "Total crane publications"
+
+#: Controller/Component/TextsComponent.php:427
+msgid "Información personal"
+msgstr "Personal Information"
+
+#: Controller/Component/TextsComponent.php:428
+msgid "Antes de continuar actualiza tus datos"
+msgstr "Before you continue please update your information"
+
+#: Controller/Component/TextsComponent.php:429
+msgid "Datos de la empresa"
+msgstr "Company Information"
+
+#: Controller/Component/TextsComponent.php:430
+msgid "Perfil empresarial"
+msgstr "Business profile"
+
+#: Controller/Component/TextsComponent.php:431
+msgid "Actualizar empresa"
+msgstr "Update Company"
+
+#: Controller/Component/TextsComponent.php:432
+msgid "Información de contacto"
+msgstr "Contact Information"
+
+#: Controller/Component/TextsComponent.php:433
+msgid "Contraseña muy segura"
+msgstr "Very secure password"
+
+#: Controller/Component/TextsComponent.php:434
+msgid "Contraseña segura, agrega algún caracter para que sea más segura"
+msgstr "Secure password, add any character to make it even more safer"
+
+#: Controller/Component/TextsComponent.php:435
+msgid "Contraseña media, agrega números y caracteres para que sea más segura"
+msgstr "Average password, add characters and number to make it safer"
+
+#: Controller/Component/TextsComponent.php:436
+msgid "Contraseña débil, intenta alguna contraseña más segura"
+msgstr "Weak password, try a more secure password"
+
+#: Controller/Component/TextsComponent.php:437
+msgid "Contraseña muy débil, cambiala por seguridad"
+msgstr "Very weak password, change it for your security"
+
+#: Controller/Component/TextsComponent.php:438
+msgid "Las contraseñas no concuerdan"
+msgstr "The passwords do not match"
+
+#: Controller/Component/TextsComponent.php:439
+msgid "Las contraseñas concuerdan"
+msgstr "The passwords match"
+
+#: Controller/Component/TextsComponent.php:440
+msgid "Datos del propietario"
+msgstr "Owner Information"
+
+#: Controller/Component/TextsComponent.php:443
+msgid "Bienvenido"
+msgstr "Welcome"
+
+#: Controller/Component/TextsComponent.php:444
+msgid "Revisa tu sitio"
+msgstr "Check your site"
+
+#: Controller/Component/TextsComponent.php:445
+msgid "Mis Favoritos"
+msgstr "My Favorites"
+
+#: Controller/Component/TextsComponent.php:446
+msgid "Estas son todas las grúas que tienes guardadas en favoritos"
+msgstr "These are all the cranes that you have saved as favorites"
+
+#: Controller/Component/TextsComponent.php:447
+msgid "Actualizar datos"
+msgstr "Update information"
+
+#: Controller/Component/TextsComponent.php:448
+msgid "Ingresa para más información"
+msgstr "Log In for more information"
+
+#: Controller/Component/TextsComponent.php:451
+msgid "Ciudad / Código postal"
+msgstr "City / Postal code"
+
+#: Controller/Component/TextsComponent.php:452
+msgid "Pais"
+msgstr "Country"
+
+#: Controller/Component/TextsComponent.php:457
+msgid "Imágenes para esta publicación"
+msgstr "Images for this publication"
+
+#: Controller/Component/TextsComponent.php:458
+msgid "Imagen Destacada"
+msgstr "Featured image"
+
+#: Controller/Component/TextsComponent.php:460
+msgid "Imagen destacada"
+msgstr "Featured image"
+
+#: Controller/Component/TextsComponent.php:461
+msgid "Ver todos los archivos"
+msgstr "View all files"
+
+#: Controller/Component/TextsComponent.php:462
+msgid "Galería de imágenes"
+msgstr "Image gallery"
+
+#: Controller/Component/TextsComponent.php:463
+msgid ""
+"Seleccióna las imágenes que quieres que aparezcan en tu galería, si el tema "
+"lo soporta, estas aparecerán en tu sitio."
+msgstr ""
+"Select the images you want to appear in your gallery , if the theme supports "
+"it, they will appear on your site ."
+
+#: Controller/Component/TextsComponent.php:464
+msgid "Seleccióna la imagen destacada para esta publicación."
+msgstr "Choose the main image for this publication"
+
+#: Controller/Component/TextsComponent.php:465
+msgid "Arrastra la imagen destacada hasta aquí"
+msgstr "Drag and drop the main image here"
+
+#: Controller/Component/TextsComponent.php:466
+msgid "Seleccióna"
+msgstr "Choose"
+
+#: Controller/Component/TextsComponent.php:467
+msgid "Quitar imagen destacada"
+msgstr "Remove featured image"
+
+#: Controller/Component/TextsComponent.php:468
+msgid "Agregar Imagenes"
+msgstr "Add images"
+
+#: Controller/Component/TextsComponent.php:469
+msgid "Logo personal o empresarial"
+msgstr "Business or personal logo"
+
+#: Controller/Component/TextsComponent.php:470
+msgid "Actualizar imagen destacada"
+msgstr "Update featured image"
+
+#: Controller/Component/TextsComponent.php:471
+msgid "Actualizar galería"
+msgstr "Update gallery"
+
+#: Controller/Component/TextsComponent.php:472
+msgid "Cambiar logo"
+msgstr "Change logo"
+
+#: Template/Layout/Email/html/default.ctp:44
+msgid "Contenido del mensaje:"
+msgstr "Message content:"
+
+#: Template/Layout/Email/html/default.ctp:53
+msgid "Cordialmente:"
+msgstr "Cordially:"
+
+#: Template/Layout/Email/html/default.ctp:54
+msgid ""
+"El contenido de este mensaje puede ser información privilegiada y "
+"confidencial. Si usted no es el destinatario real del mismo, por favor "
+"informe de ello a quien lo envía y destrúyalo en forma inmediata. Está "
+"prohibida su retención, grabación, utilización o divulgación con cualquier "
+"propósito. Este mensaje ha sido verificado con software antivirus, en "
+"consecuencia, el remitente de este no se hace responsable por la presencia "
+"en él o en sus anexos de algún virus que pueda generar daños en los equipos "
+"o programas del destinatario."
+msgstr ""
+"The contents of this message may be privileged and confidential information. "
+"If you are not the actual addressee, please report it to whoever sends and "
+"destroy it immediately. Retention is prohibited , recording, use or "
+"disclosure for any purpose. This message has been checked with antivirus "
+"software, therefore the sender of this is not responsible for the presence "
+"in it or its annexes of any viruses that may cause damage to the equipment "
+"or programming the recipient."
+
+#: Template/Layout/Email/html/default.ctp:66
+msgid "KHOLN INVESTMENTS INC"
+msgstr "KHOLN INVESTMENTS INC."
+
+#: Template/Layout/Email/html/default.ctp:67
+msgid "14303 Foxcroft Road"
+msgstr "14303 Foxcroft Road"
+
+#: Template/Layout/Email/html/default.ctp:68
+msgid "Raleigh NC 27614"
+msgstr "Raleigh NC 27614"
+
+#: Template/Layout/Email/html/default.ctp:69
+msgid "Tel: (954) 769 00 39"
+msgstr "Tel: (954) 769 00 39"
+
+#: Template/Layout/Email/html/default.ctp:70
+msgid "Email: commercial@nextcrane.com"
+msgstr "Email: commercial@nextcrane.com"
+
+#: Template/Layout/Email/html/default.ctp:73
+msgid "Todos los derechos reservados"
+msgstr "Copyright © All rights reserved"
+
+#: Template/Layout/Email/html/default.ctp:73
+msgid "Desarollado por T&T Interactiva S.A.S."
+msgstr "Interactive SAS"
+
+#: Template/Posts/testpdf.ctp:119
+msgid "Crane"
+msgstr "Crane"
+
+#: Template/Element/compare.ctp:31
+msgid "Eliminar"
+msgstr "Delete"
+
+#: Template/Element/compare.ctp:31
+msgid "Desea eliminar este registro?"
+msgstr "Do you wish to delete this record?"
+
+#: Template/Element/sidebar.ctp:15
+msgid "(t)"
+msgstr "(t)"
+
+#: Template/Pages/codes.ctp:8
+msgid "Registrar"
+msgstr "Register"
+
+#: Template/Users/ranking.ctp:192
+msgid "Puesto"
+msgstr "Place"
+
+#: Template/Users/ranking.ctp:193
+msgid "Participante"
+msgstr "Participant"
+
+#: Template/Error/error400.ctp:19 Template/Error/error500.ctp:36
+#: Template/Error/fatal_error.ctp:36 Template/Error/missing_action.ctp:33
+#: Template/Error/missing_controller.ctp:33 Template/Error/pdf/error500.ctp:36
+msgid "Error"
+msgstr "Error"
+
+#: Template/Error/error400.ctp:21 Template/Error/error500.ctp:38
+#: Template/Error/fatal_error.ctp:38 Template/Error/missing_action.ctp:35
+#: Template/Error/missing_controller.ctp:35 Template/Error/pdf/error500.ctp:38
+msgid "The requested address %s was not found on this server."
+msgstr "The requested address %s was not found on this server."
+
+#: Controller/Component/AuthComponent.php:454
+msgid "You are not authorized to access that location."
+msgstr "You are not authorized to access that location."
+
+#: Controller/Component/CsrfComponent.php:154
+msgid "Missing CSRF token cookie"
+msgstr "Missing CSRF token cookie"
+
+#: Controller/Component/CsrfComponent.php:158
+msgid "CSRF token mismatch."
+msgstr "CSRF token mismatch."
+
+#: Error/ExceptionRenderer.php:247
+msgid "Not Found"
+msgstr "Not Found"
+
+#: Error/ExceptionRenderer.php:249
+msgid "An Internal Error Has Occurred."
+msgstr "An Internal Error Has Occurred."
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr "{0,number,#,###.##} KB"
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr "{0,number,#,###.##} MB"
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr "{0,number,#,###.##} MB"
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr "{0,number,#,###.##} TB"
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr "{0} from now"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr "{0} ago"
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} after"
+msgstr "{0} after"
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} before"
+msgstr "{0} before"
+
+#: I18n/RelativeTimeFormatter.php:113
+msgid "just now"
+msgstr "just now"
+
+#: I18n/RelativeTimeFormatter.php:150
+msgid "about a second ago"
+msgstr "about a second ago"
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a minute ago"
+msgstr "about a minute ago"
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about an hour ago"
+msgstr "about an hour ago"
+
+#: I18n/RelativeTimeFormatter.php:153;328
+msgid "about a day ago"
+msgstr "about a day ago"
+
+#: I18n/RelativeTimeFormatter.php:154;329
+msgid "about a week ago"
+msgstr "about a week ago"
+
+#: I18n/RelativeTimeFormatter.php:155;330
+msgid "about a month ago"
+msgstr "about a month ago"
+
+#: I18n/RelativeTimeFormatter.php:156;331
+msgid "about a year ago"
+msgstr "about a year ago"
+
+#: I18n/RelativeTimeFormatter.php:166
+msgid "in about a second"
+msgstr "in about a second"
+
+#: I18n/RelativeTimeFormatter.php:167
+msgid "in about a minute"
+msgstr "in about a minute"
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about an hour"
+msgstr "in about an hour"
+
+#: I18n/RelativeTimeFormatter.php:169;341
+msgid "in about a day"
+msgstr "in about a day"
+
+#: I18n/RelativeTimeFormatter.php:170;342
+msgid "in about a week"
+msgstr "in about a week"
+
+#: I18n/RelativeTimeFormatter.php:171;343
+msgid "in about a month"
+msgstr "in about a month"
+
+#: I18n/RelativeTimeFormatter.php:172;344
+msgid "in about a year"
+msgstr "in about a year"
+
+#: I18n/RelativeTimeFormatter.php:300
+msgid "today"
+msgstr "today"
+
+#: I18n/RelativeTimeFormatter.php:364
+msgid "%s ago"
+msgstr "%s ago"
+
+#: I18n/RelativeTimeFormatter.php:365
+msgid "on %s"
+msgstr "on %s"
+
+#: I18n/RelativeTimeFormatter.php:47;125;312
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;128;315
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;131;318
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;134;321
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;137
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;140
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;143
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Network/Response.php:1417
+msgid "The requested file was not found"
+msgstr "The requested file was not found"
+
+#: ORM/RulesChecker.php:50
+msgid "This value is already in use"
+msgstr "This value is already in use"
+
+#: ORM/RulesChecker.php:84
+msgid "This value does not exist"
+msgstr "This value does not exist"
+
+#: ORM/RulesChecker.php:107
+msgid "The count does not match {0}{1}"
+msgstr "The count does not match {0}{1}"
+
+#: Utility/Text.php:744
+msgid "and"
+msgstr "and"
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr "This field is required"
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr "This field cannot be left empty"
+
+#: Validation/Validator.php:1501
+msgid "The provided value is invalid"
+msgstr "The provided value is invalid"
+
+#: View/Helper/FormHelper.php:947
+msgid "New %s"
+msgstr "New %s"
+
+#: View/Helper/FormHelper.php:950
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: View/Helper/FormHelper.php:1761
+msgid "Submit"
+msgstr "Submit"
+
+#: View/Helper/HtmlHelper.php:770
+msgid "Home"
+msgstr "Home"
+
+#: View/Widget/DateTimeWidget.php:530
+msgid "January"
+msgstr "January"
+
+#: View/Widget/DateTimeWidget.php:531
+msgid "February"
+msgstr "February"
+
+#: View/Widget/DateTimeWidget.php:532
+msgid "March"
+msgstr "March"
+
+#: View/Widget/DateTimeWidget.php:533
+msgid "April"
+msgstr "April"
+
+#: View/Widget/DateTimeWidget.php:534
+msgid "May"
+msgstr "May"
+
+#: View/Widget/DateTimeWidget.php:535
+msgid "June"
+msgstr "June"
+
+#: View/Widget/DateTimeWidget.php:536
+msgid "July"
+msgstr "July"
+
+#: View/Widget/DateTimeWidget.php:537
+msgid "August"
+msgstr "August"
+
+#: View/Widget/DateTimeWidget.php:538
+msgid "September"
+msgstr "September"
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "October"
+msgstr "October"
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "November"
+msgstr "November"
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "December"
+msgstr "December"

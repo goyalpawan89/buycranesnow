@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+.ac-container{
+	width: 400px;
+	margin: 10px;
+	text-align: left;
+}
+.ac-container label{
+	padding: 9px 20px;
+	position: relative;
+	z-index: 20;
+	display: block;
+	cursor: pointer;
+}
+.ac-container label:hover{
+}
+
+.ac-container input:checked + label,
+.ac-container input:checked + label:hover{
+}
+
+.ac-container label:hover:after,
+.ac-container input:checked + label:hover:after{
+	content: '';
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	right: 13px;
+	top: 7px;
+	/*background: transparent url(../images/arrow_down.png) no-repeat center center;*/
+}
+.ac-container input:checked + label:hover:after{
+	/*background-image: url(../images/arrow_up.png); */
+}
+.ac-container input{
+	display: none;
+}
+.ac-container article{
+	background: rgba(255, 255, 255, 0.5);
+	margin-top: -1px;
+	overflow: hidden;
+	height: 0px;
+	position: relative;
+	z-index: 10;
+	-webkit-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-moz-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-o-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-ms-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+}
+.ac-container article p{
+	font-style: italic;
+	color: #777;
+	line-height: 23px;
+	font-size: 14px;
+	padding: 20px;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+}
+.ac-container input:checked ~ article{
+	-webkit-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-moz-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-o-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-ms-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3);
+}
+.ac-container input:checked ~ article.ac-small{
+	height: 140px;
+}
+.ac-container input:checked ~ article.ac-medium{
+	height: 180px;
+}
+.ac-container input:checked ~ article.ac-large{
+	height: 250px;
+}
+
+/******* ajustes personalizados para elymki **********/
+
+.desplegable .categories-checkbox { margin: 0; }
+
+.desplegable .categories-checkbox div.input label {
+    display: block;
+    width: 100%;
+    background: transparent;
+}
+
+.desplegable .categories-checkbox div.input input[type="checkbox"] {
+    float: left;
+    width: auto;
+    margin: 4px 10px;
+    display: inline-block;
+}
+
+.ac-principal_label {
+    border-top: 1px solid #212121;
+    border-bottom: 2px solid #666;
+}
+
+.ac-container input:checked + label, .ac-principal_label:hover { border-color: transparent !important; }
+
+
+.div-add_menu { padding: 15px 10px; display: block; }

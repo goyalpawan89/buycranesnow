@@ -1,0 +1,2835 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-06-07 13:18+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppController.php:202
+msgid "Lo sentimos, no hemos encontrado lo que buscas"
+msgstr ""
+
+#: Controller/CategoriesController.php:201
+msgid "No has datos"
+msgstr ""
+
+#: Controller/CodesController.php:98
+msgid "Los códigos se han desactivado."
+msgstr ""
+
+#: Controller/CodesController.php:225
+msgid "Códigos generados con éxito"
+msgstr ""
+
+#: Controller/CodesController.php:252
+msgid "El código se ha desactivado."
+msgstr ""
+
+#: Controller/CodesController.php:258;279
+#: Controller/TrmController.php:96;111
+#: Controller/Config/AcomodacionController.php:183;198
+#: Controller/Component/TextsComponent.php:180
+msgid "Area de acceso restringida."
+msgstr ""
+
+#: Controller/CodesController.php:274
+msgid "Código restaurado con éxito."
+msgstr ""
+
+#: Controller/ErrorsController.php:88
+msgid "Licencia Modificada"
+msgstr ""
+
+#: Controller/GadgetsController.php:63
+msgid "Los gadgets se han eliminado correctamente."
+msgstr ""
+
+#: Controller/GadgetsController.php:97;193
+msgid "Gadget actualizado"
+msgstr ""
+
+#: Controller/GadgetsController.php:134
+msgid "Gadget generado"
+msgstr ""
+
+#: Controller/GadgetsController.php:159
+msgid "El gadget se ha eliminado correctamente"
+msgstr ""
+
+#: Controller/GadgetsController.php:176
+msgid "El gadget se ha enviado a papelera"
+msgstr ""
+
+#: Controller/GeneralsController.php:82;148
+msgid "Los datos se han actualizado correctamente."
+msgstr ""
+
+#: Controller/GeneralsController.php:195
+msgid "El campo se ha generado correctamente."
+msgstr ""
+
+#: Controller/GeneralsController.php:216
+msgid "Los campos se han actualizado correctamente."
+msgstr ""
+
+#: Controller/PagesController.php:68
+msgid "La página se ha desactivado con éxito."
+msgstr ""
+
+#: Controller/PagesController.php:71
+#: Controller/PostsController.php:118
+#: Template/Element/admin/PostsController.php:116
+msgid "Lo sentimos pero no se puede eliminar la categoria principal."
+msgstr ""
+
+#: Controller/PagesController.php:104
+msgid "Páginas actualizadas"
+msgstr ""
+
+#: Controller/PagesController.php:166
+msgid "Página generada"
+msgstr ""
+
+#: Controller/PagesController.php:250
+msgid "Página actualizada"
+msgstr ""
+
+#: Controller/PagesController.php:277
+#: Controller/PostsController.php:445
+#: Template/Element/admin/PostsController.php:381
+msgid "La publicación se ha eliminado por completo"
+msgstr ""
+
+#: Controller/PagesController.php:282;309
+#: Controller/PostsController.php:472
+msgid "La página con esta plantilla no se debe eliminar"
+msgstr ""
+
+#: Controller/PagesController.php:304
+#: Controller/PostsController.php:467
+#: Template/Element/admin/PostsController.php:400
+msgid "La publicación se ha enviado a papelera"
+msgstr ""
+
+#: Controller/PagesController.php:328
+#: Controller/PostsController.php:289;491
+#: Template/Element/admin/PostsController.php:234;417
+msgid "Publicación actualizada"
+msgstr ""
+
+#: Controller/PostsController.php:124
+#: Template/Element/admin/PostsController.php:122
+msgid "Los cambios se han realizado correctamente"
+msgstr ""
+
+#: Controller/PostsController.php:165
+#: Template/Element/admin/PostsController.php:162
+msgid "No hay publicaciones en la papelera."
+msgstr ""
+
+#: Controller/PostsController.php:181
+#: Template/Element/admin/PostsController.php:178
+msgid "Publicaciones restauradas"
+msgstr ""
+
+#: Controller/PostsController.php:282
+msgid "Publicación actualizada, el email de alertas se ha enviado a los usuarios correspondientes"
+msgstr ""
+
+#: Controller/PostsController.php:406
+#: Template/Element/admin/PostsController.php:342
+msgid "Publicación generada"
+msgstr ""
+
+#: Controller/PostsController.php:425
+#: Template/Element/admin/PostsController.php:361
+msgid "No puedes publicar más grúas, cambiate a Premium para agregar más grúas"
+msgstr ""
+
+#: Controller/PostsController.php:542
+#: Template/Element/admin/PostsController.php:470
+msgid "Publicación generada para la venta a cargo de SOLOGRUAS.COM"
+msgstr ""
+
+#: Controller/SellRentController.php:54
+msgid "La(s) oferta(s) se han cambiado a estado inactivo."
+msgstr ""
+
+#: Controller/SellRentController.php:132
+msgid "La(s) oferta(s) se han activado exitosamente."
+msgstr ""
+
+#: Controller/TrackingController.php:72
+#: Controller/VentasController.php:72
+msgid "Los datos se han actualizado correctamente. Número del Caso:"
+msgstr ""
+
+#: Controller/TrackingController.php:78
+#: Controller/VentasController.php:78
+msgid "Lo sentimos no hay usuarios disponibles para validar el contrato."
+msgstr ""
+
+#: Controller/TrmController.php:68
+#: Controller/Config/AcomodacionController.php:221
+msgid "No hay items inactivos."
+msgstr ""
+
+#: Controller/TrmController.php:81
+msgid "Categorías actualizadas"
+msgstr ""
+
+#: Controller/TrmController.php:101
+msgid "La moneda se ha desactivado."
+msgstr ""
+
+#: Controller/TrmController.php:116
+msgid "La moneda se ha reactivado."
+msgstr ""
+
+#: Controller/TrmController.php:161
+msgid "Los datos han sido almacenados correctamente."
+msgstr ""
+
+#: Controller/TrmController.php:241
+msgid "Moneda actualizada"
+msgstr ""
+
+#: Controller/TrmController.php:264
+msgid "Lo sentimos la moneda no existe."
+msgstr ""
+
+#: Controller/TrmController.php:268
+msgid "Lo sentimos no hay historial."
+msgstr ""
+
+#: Controller/VentasController.php:126
+msgid "Area de acceso restringido."
+msgstr ""
+
+#: Controller/VentasController.php:157
+msgid "Lo sentimos. No tienes acceso a este contrato."
+msgstr ""
+
+#: Controller/Component/UploadComponent.php:56
+msgid "No se pudo establecer la conexion."
+msgstr ""
+
+#: Controller/Component/UploadComponent.php:129
+msgid "Se subio la imagen correctamente."
+msgstr ""
+
+#: Controller/Component/UploadComponent.php:132
+msgid "No se pudo subir el archivo."
+msgstr ""
+
+#: Controller/Component/UploadComponent.php:135
+msgid "Error, no se pudo cambiar al directorio de subidas."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:88
+msgid "Se ha agregado correctamente una nueva acomodación."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:91;167
+msgid "Ha ocurrido un error."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:111
+msgid "No hay datos que mostrar. Debes agregar una nueva Acomodación."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:126
+msgid "Items desactivados con éxito."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:164
+msgid "Se han modificado los datos con éxito."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:188
+msgid "La acomodación se ha enviado a la papelera."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:203
+msgid "La acomodación se ha activado con éxito."
+msgstr ""
+
+#: Controller/Config/AcomodacionController.php:236
+msgid "Items activados con éxito."
+msgstr ""
+
+#: Model/Table/NewslettersTable.php:20;28
+#: Model/Table/UsersTable.php:38;47
+msgid "Debes ingresar un correo válido."
+msgstr ""
+
+#: Model/Table/NewslettersTable.php:23
+msgid "El usuario ya se ha registrado."
+msgstr ""
+
+#: Model/Table/PostsTable.php:47
+msgid "Debes ingresar un Titulo."
+msgstr ""
+
+#: Model/Table/UsersTable.php:43
+msgid "El usuario ya existe."
+msgstr ""
+
+#: Model/Table/UsersTable.php:53
+msgid "El número de identificación ya existe."
+msgstr ""
+
+#: Template/Codes/index.ctp:19
+msgid "Todos los códigos: "
+msgstr ""
+
+#: Template/Codes/index.ctp:29
+#: Template/Codes/search.ctp:40
+#: Template/Logs/codes.ctp:26
+#: Template/Tipos/edit.ctp:28
+msgid "Código"
+msgstr ""
+
+#: Template/Codes/index.ctp:30
+#: Template/Codes/search.ctp:41
+#: Controller/Component/TextsComponent.php:287
+msgid "Tipo"
+msgstr ""
+
+#: Template/Codes/index.ctp:31
+#: Template/Codes/search.ctp:42
+msgid "Metodo"
+msgstr ""
+
+#: Template/Codes/index.ctp:32
+#: Template/Codes/search.ctp:44
+msgid "Retos"
+msgstr ""
+
+#: Template/Codes/index.ctp:67
+#: Template/Config/Acomodacion/view.ctp:80
+#: Template/Logs/codes.ctp:69
+#: Template/Logs/index.ctp:96
+#: Template/Members/index.ctp:38
+#: Template/Monedas/view.ctp:63
+#: Template/Periodo/view.ctp:61
+#: Template/Tipos/view.ctp:63
+#: Template/Trm/currency.ctp:48
+#: Template/Trm/view.ctp:83
+#: Controller/Component/TextsComponent.php:82;156
+msgid "Página"
+msgstr ""
+
+#: Template/Codes/index.ctp:67
+#: Template/Config/Acomodacion/view.ctp:80
+#: Template/Logs/codes.ctp:69
+#: Template/Logs/index.ctp:96
+#: Template/Members/index.ctp:38
+#: Template/Monedas/view.ctp:63
+#: Template/Periodo/view.ctp:61
+#: Template/Tipos/view.ctp:63
+#: Template/Trm/currency.ctp:48
+#: Template/Trm/view.ctp:83
+#: Controller/Component/TextsComponent.php:83
+msgid "de"
+msgstr ""
+
+#: Template/Codes/index.ctp:67
+#: Template/Config/Acomodacion/view.ctp:80
+#: Template/Logs/codes.ctp:69
+#: Template/Logs/index.ctp:96
+#: Template/Members/index.ctp:38
+#: Template/Monedas/view.ctp:63
+#: Template/Periodo/view.ctp:61
+#: Template/Tipos/view.ctp:63
+#: Template/Trm/currency.ctp:48
+#: Template/Trm/view.ctp:83
+#: Controller/Component/TextsComponent.php:133
+msgid "mostrando"
+msgstr ""
+
+#: Template/Codes/index.ctp:67
+#: Template/Config/Acomodacion/view.ctp:80
+#: Template/Logs/codes.ctp:69
+#: Template/Logs/index.ctp:96
+#: Template/Members/index.ctp:38
+#: Template/Monedas/view.ctp:63
+#: Template/Periodo/view.ctp:61
+#: Template/Tipos/view.ctp:63
+#: Template/Trm/currency.ctp:48
+#: Template/Trm/view.ctp:83
+#: Controller/Component/TextsComponent.php:134
+msgid "registro de"
+msgstr ""
+
+#: Template/Codes/index.ctp:70
+#: Template/Config/Acomodacion/view.ctp:83
+#: Template/Logs/codes.ctp:72
+#: Template/Logs/index.ctp:99
+#: Template/Monedas/view.ctp:66
+#: Template/Periodo/view.ctp:64
+#: Template/Tipos/view.ctp:66
+#: Template/Trm/currency.ctp:51
+#: Template/Trm/view.ctp:86
+msgid " Anterior"
+msgstr ""
+
+#: Template/Codes/index.ctp:72
+#: Template/Config/Acomodacion/view.ctp:85
+#: Template/Logs/codes.ctp:74
+#: Template/Logs/index.ctp:101
+#: Template/Monedas/view.ctp:68
+#: Template/Periodo/view.ctp:66
+#: Template/Tipos/view.ctp:68
+#: Template/Trm/currency.ctp:53
+#: Template/Trm/view.ctp:88
+msgid "Siguiente "
+msgstr ""
+
+#: Template/Codes/search.ctp:43
+#: Template/Config/Acomodacion/edit.ctp:36
+#: Template/Monedas/edit.ctp:36
+#: Template/Periodo/edit.ctp:29
+#: Template/Tipos/edit.ctp:36
+#: Template/Trm/add.ctp:57
+#: Template/Users/excel.ctp:18
+#: Controller/Component/TextsComponent.php:19
+msgid "Estado"
+msgstr ""
+
+#: Template/Config/Acomodacion/edit.ctp:21
+#: Template/Config/Acomodacion/view.ctp:36
+#: Template/Monedas/edit.ctp:21
+#: Template/Monedas/view.ctp:32
+#: Template/Periodo/edit.ctp:21
+#: Template/Periodo/view.ctp:32
+#: Template/Tipos/edit.ctp:21
+#: Template/Tipos/view.ctp:32
+#: Template/Trm/add.ctp:21
+#: Template/Trm/view.ctp:35
+#: Controller/Component/TextsComponent.php:42;365;379;419;433;543;577;593;630;644;655;683;717;729;740;757
+msgid "Nombre"
+msgstr ""
+
+#: Template/Config/Acomodacion/edit.ctp:28
+#: Template/Config/Acomodacion/view.ctp:37
+#: Controller/Component/TextsComponent.php:36;544;578;594;631;645;656;684;718;730;741;758
+msgid "Descripción"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:17
+msgid "Acomodación"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:24
+msgid "Todas las acomodaciones: "
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:38
+#: Template/Monedas/view.ctp:34
+#: Template/Periodo/view.ctp:33
+#: Template/Tipos/view.ctp:34
+#: Template/Trm/view.ctp:39
+#: Template/Users/excel.ctp:19
+msgid "Fecha modificación"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:39
+#: Template/Monedas/view.ctp:35
+#: Template/Periodo/view.ctp:34
+#: Template/Tipos/view.ctp:35
+#: Template/Trm/currency.ctp:30
+#: Template/Trm/view.ctp:40
+#: Template/Users/excel.ctp:20
+msgid "Fecha creación"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:40
+#: Template/Members/index.ctp:12
+#: Template/Monedas/view.ctp:36
+#: Template/Periodo/view.ctp:35
+#: Template/Tipos/view.ctp:36
+#: Template/Trm/view.ctp:41
+#: Controller/Component/TextsComponent.php:31;228
+msgid "Acciones"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:66
+#: Template/Monedas/view.ctp:50
+#: Template/Periodo/view.ctp:48
+#: Template/Tipos/view.ctp:50
+#: Template/Trm/view.ctp:65
+#: Controller/Component/TextsComponent.php:29
+msgid "Restaurar"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:67
+#: Template/Monedas/view.ctp:51
+#: Template/Periodo/view.ctp:49
+#: Template/Tipos/view.ctp:51
+#: Controller/Component/TextsComponent.php:28
+msgid "Eliminar"
+msgstr ""
+
+#: Template/Config/Acomodacion/view.ctp:69
+#: Template/Members/index.ctp:30
+#: Template/Monedas/view.ctp:53
+#: Template/Periodo/view.ctp:51
+#: Template/Tipos/view.ctp:53
+#: Template/Trm/view.ctp:68
+#: Controller/Component/TextsComponent.php:27
+msgid "Editar"
+msgstr ""
+
+#: Template/Element/admin/menu.ctp:4
+msgid "Escritorio"
+msgstr ""
+
+#: Template/Element/admin/top_bar.ctp:16;21
+msgid "Idioma "
+msgstr ""
+
+#: Template/Element/admin/top_bar.ctp:30
+#: Controller/Component/TextsComponent.php:210
+msgid "Buscar"
+msgstr ""
+
+#: Template/Element/admin/top_bar.ctp:33
+msgid "Buscar..."
+msgstr ""
+
+#: Template/Element/admin/top_bar.ctp:43
+msgid "Perfil usuario"
+msgstr ""
+
+#: Template/Element/admin/top_bar.ctp:44
+msgid "Salir"
+msgstr ""
+
+#: Template/Errors/license.ctp:13
+#: Controller/Component/TextsComponent.php:68
+msgid "Licencia"
+msgstr ""
+
+#: Template/Errors/license.ctp:20
+msgid "Cambiar"
+msgstr ""
+
+#: Template/Errors/suspendida.ctp:9
+msgid "<h2>Licencia "
+msgstr ""
+
+#: Template/Errors/suspendida.ctp:10
+msgid "<b>Error "
+msgstr ""
+
+#: Template/Layout/license.ctp:4
+#: Template/Layout/login.ctp:19
+msgid "Elymki"
+msgstr ""
+
+#: Template/Layout/license.ctp:65
+#: Template/Layout/login.ctp:67
+msgid "Derechos Reservados"
+msgstr ""
+
+#: Template/Layout/login.ctp:68
+msgid "Plataforma Elymki - Desarrollado por: "
+msgstr ""
+
+#: Template/Layout/login.ctp:68
+msgid "T6T Interactiva S.A.S."
+msgstr ""
+
+#: Template/Logs/codes.ctp:23
+#: Template/Logs/index.ctp:30
+#: Controller/Component/TextsComponent.php:460
+msgid "Usuario"
+msgstr ""
+
+#: Template/Logs/codes.ctp:27
+#: Template/Logs/index.ctp:38
+#: Controller/Component/TextsComponent.php:32;241;368;382;422;436;467
+msgid "Fecha de creación"
+msgstr ""
+
+#: Template/Logs/index.ctp:33
+msgid "Posición"
+msgstr ""
+
+#: Template/Logs/index.ctp:34
+msgid "Puntaje"
+msgstr ""
+
+#: Template/Logs/index.ctp:37
+msgid "Acción"
+msgstr ""
+
+#: Template/Members/add.ctp:6
+msgid "Primer nombre"
+msgstr ""
+
+#: Template/Members/add.ctp:7
+msgid "Número identificación"
+msgstr ""
+
+#: Template/Members/add.ctp:8
+#: Template/Members/sondeo.ctp:16
+msgid "Genero"
+msgstr ""
+
+#: Template/Members/add.ctp:11
+#: Template/Members/sondeo.ctp:72;103
+msgid "Cual?"
+msgstr ""
+
+#: Template/Members/add.ctp:13
+#: Template/Members/excel.ctp:21
+#: Template/Members/index.ctp:9
+#: Template/Members/sondeo.ctp:20
+msgid "Edad"
+msgstr ""
+
+#: Template/Members/add.ctp:14
+msgid "Datos de contacto"
+msgstr ""
+
+#: Template/Members/add.ctp:15
+msgid "Tipo de miembro"
+msgstr ""
+
+#: Template/Members/add.ctp:16
+msgid "E-mail"
+msgstr ""
+
+#: Template/Members/add.ctp:17
+#: Controller/Component/TextsComponent.php:67
+msgid "Celular"
+msgstr ""
+
+#: Template/Members/add.ctp:18
+msgid "Facebook"
+msgstr ""
+
+#: Template/Members/add.ctp:19
+#: Template/Members/excel.ctp:20
+#: Template/Members/index.ctp:8
+msgid "Grado"
+msgstr ""
+
+#: Template/Members/add.ctp:22
+msgid "Talleres a los que asistió"
+msgstr ""
+
+#: Template/Members/excel.ctp:17
+#: Template/Members/index.ctp:5
+msgid "Nombre "
+msgstr ""
+
+#: Template/Members/excel.ctp:18
+#: Template/Members/index.ctp:6
+msgid "Colegio"
+msgstr ""
+
+#: Template/Members/excel.ctp:23
+msgid "Tipo integrante"
+msgstr ""
+
+#: Template/Members/excel.ctp:24
+#: Template/Members/index.ctp:11
+msgid "Talleres / Asistió"
+msgstr ""
+
+#: Template/Members/excel.ctp:33;50
+#: Template/Members/index.ctp:20
+msgid " Años"
+msgstr ""
+
+#: Template/Members/excel.ctp:39;56
+#: Template/Members/index.ctp:26
+msgid "Taller "
+msgstr ""
+
+#: Template/Members/index.ctp:31
+msgid "Sondeo"
+msgstr ""
+
+#: Template/Members/index.ctp:32
+msgid "Borrar"
+msgstr ""
+
+#: Template/Members/index.ctp:32
+msgid "Desea eliminar a "
+msgstr ""
+
+#: Template/Members/index.ctp:41
+#: Controller/Component/TextsComponent.php:80
+msgid "Anterior"
+msgstr ""
+
+#: Template/Members/index.ctp:43
+#: Controller/Component/TextsComponent.php:81
+msgid "Siguiente"
+msgstr ""
+
+#: Template/Members/index.ctp:50
+msgid "Generar excel "
+msgstr ""
+
+#: Template/Members/index.ctp:56
+msgid "Generar excel Todos los integrantes"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:5
+msgid "Sondeo por estudiante"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:12
+msgid "Nombre colegio"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:23
+msgid "Barrio de residencia"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:27
+msgid "Tipo de Sondeo"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:34
+msgid "Sobre consumo"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:38
+msgid "¿Ha consumido alcohol en los últimos 3 meses?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:42;50;58
+msgid "¿A los cuántos años inició?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:46
+msgid "¿Ha consumido cigarrillo en los últimos tres meses?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:54
+msgid "¿Ha consumido alguna sustancia psicoactiva (SPA) y/o Droga?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:62
+msgid "¿Cuáles sustancias ha consumido en los últimos 3 meses?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:66
+msgid "Ha mezclado más de 3 drogas al mismo tiempo en los últimos 3 meses, ¿cuáles? "
+msgstr ""
+
+#: Template/Members/sondeo.ctp:70
+msgid "¿Si consume drogas, usted lo hace por?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:77
+msgid "Sobre riesgos"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:81
+msgid "¿Conoce las diferencias entre sustancias psicoactivas legales, ilegales y legales de uso indebido?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:85
+msgid "¿Conoce la calidad de las sustancias que consume?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:89
+msgid "¿Sabe cuál es la diferencia entre consumo, uso y abuso de drogas?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:93
+msgid "¿Sabe cuáles son los principales adulterantes de las drogas?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:97
+msgid "¿Sabe cuáles son los riesgos y daños de mezclar drogas y de mezclar estas con alcohol? "
+msgstr ""
+
+#: Template/Members/sondeo.ctp:101
+msgid "¿A través de qué medio se informa usted sobre el tema de drogas?  "
+msgstr ""
+
+#: Template/Members/sondeo.ctp:108
+msgid "Sobre drogas"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:112
+msgid "¿Sabe cuál es la diferencia entre droga, fármaco, estupefaciente y sustancia psicoactiva?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:116
+msgid "¿Sabe cuál es la diferencia entre sustancias depresoras, estimulantes y alucinógenos?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:120
+msgid "¿Sabe la diferencia entre prevención, reducción de riesgo y daños, y superación del consumo?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:124
+msgid "¿Conoce la diferencia entre los efectos de cocaína, marihuana, Dick, lid, éxtasis, 2CB?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:128
+msgid "¿Sabe usted qué es la cocaína rosada?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:130
+msgid "Qué es?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:135
+msgid "Sobre estigma y derechos"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:139
+msgid "¿Sabe cuál es la diferencia entre chirri, drogadicto, vicioso, consumidor o usuario?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:143
+msgid "¿Sabe cuál es la diferencia entre consumidor experimental, recreativo, habitual y  dependiente? Sí "
+msgstr ""
+
+#: Template/Members/sondeo.ctp:147
+msgid "¿Conoce sus derechos como consumidor de sustancias psicoactivas?"
+msgstr ""
+
+#: Template/Members/sondeo.ctp:153
+msgid "Generar sondeo"
+msgstr ""
+
+#: Template/Monedas/edit.ctp:28
+msgid "Tasa de cambio USD"
+msgstr ""
+
+#: Template/Monedas/view.ctp:13
+#: Template/Trm/currency.ctp:25
+msgid "Moneda"
+msgstr ""
+
+#: Template/Monedas/view.ctp:20
+#: Template/Trm/view.ctp:22
+msgid "Todas las Monedas: "
+msgstr ""
+
+#: Template/Monedas/view.ctp:33
+#: Template/Tipos/view.ctp:33
+#: Template/Trm/add.ctp:27
+#: Template/Trm/view.ctp:34
+msgid "Codigo"
+msgstr ""
+
+#: Template/Periodo/view.ctp:13
+msgid "Periodo"
+msgstr ""
+
+#: Template/Periodo/view.ctp:20
+msgid "Todos los Periodos: "
+msgstr ""
+
+#: Template/Reports/index.ctp:17
+msgid "Totalizador"
+msgstr ""
+
+#: Template/Reports/index.ctp:27
+msgid "Jugadores"
+msgstr ""
+
+#: Template/Reports/index.ctp:34
+msgid "Retos Cumplidos"
+msgstr ""
+
+#: Template/Tipos/view.ctp:13
+msgid "Tipo de documento"
+msgstr ""
+
+#: Template/Tipos/view.ctp:20
+msgid "Todos los Tipos: "
+msgstr ""
+
+#: Template/Trm/add.ctp:34
+msgid "Tasa de cambio a USD"
+msgstr ""
+
+#: Template/Trm/add.ctp:41
+msgid "TRM"
+msgstr ""
+
+#: Template/Trm/add.ctp:50
+msgid "Valor Final Incremento"
+msgstr ""
+
+#: Template/Trm/currency.ctp:7;26
+#: Template/Trm/view.ctp:36
+msgid "Conversión a USD"
+msgstr ""
+
+#: Template/Trm/currency.ctp:8;27
+msgid "Valor TRM"
+msgstr ""
+
+#: Template/Trm/currency.ctp:9;28
+msgid "Valor Cotización"
+msgstr ""
+
+#: Template/Trm/currency.ctp:19
+msgid "<b>Fecha de "
+msgstr ""
+
+#: Template/Trm/currency.ctp:21
+msgid "Historial "
+msgstr ""
+
+#: Template/Trm/currency.ctp:29
+msgid "Fecha Sincronización"
+msgstr ""
+
+#: Template/Trm/currency.ctp:31
+#: Controller/Component/TextsComponent.php:33;242;369;383;423;437;468
+msgid "Fecha de modificación"
+msgstr ""
+
+#: Template/Trm/index.ctp:17
+#: Template/Trm/sync.ctp:53
+msgid "Porcentaje %"
+msgstr ""
+
+#: Template/Trm/index.ctp:24
+#: Template/Trm/sync.ctp:60
+#: Controller/Component/TextsComponent.php:141
+msgid "Valor"
+msgstr ""
+
+#: Template/Trm/sync.ctp:15
+msgid "Todas las rutas"
+msgstr ""
+
+#: Template/Trm/view.ctp:15
+msgid "Monedas"
+msgstr ""
+
+#: Template/Trm/view.ctp:37
+msgid "Valor Actual TRM"
+msgstr ""
+
+#: Template/Trm/view.ctp:38
+msgid "Valor Incremento"
+msgstr ""
+
+#: Template/Users/delete.ctp:1
+msgid "Eliminar usuarios"
+msgstr ""
+
+#: Template/Users/excel.ctp:14
+msgid "Nombres"
+msgstr ""
+
+#: Template/Users/excel.ctp:15
+msgid "Documento"
+msgstr ""
+
+#: Template/Users/excel.ctp:16
+#: Controller/Component/TextsComponent.php:74;393;401;408;420;434;462
+msgid "Tipo de usuario"
+msgstr ""
+
+#: Template/Users/excel.ctp:17
+msgid "Equipo de trabajo"
+msgstr ""
+
+#: Template/Users/forgetpwd.ctp:8
+#: Template/Users/login.ctp:18
+msgid "Ingresa tu correo electrónico"
+msgstr ""
+
+#: Template/Users/forgetpwd.ctp:16
+#: Controller/Component/TextsComponent.php:77
+msgid "Enviar"
+msgstr ""
+
+#: Template/Users/forgetpwd.ctp:21
+msgid "Revisa tu correo electrónico para continuar."
+msgstr ""
+
+#: Template/Users/login.ctp:19
+msgid "Ingresa tu contraseña"
+msgstr ""
+
+#: Template/Users/login.ctp:28
+#: Controller/Component/TextsComponent.php:441
+msgid "Iniciar sesión"
+msgstr ""
+
+#: Template/Users/login.ctp:35
+#: Controller/Component/TextsComponent.php:138
+msgid "¿Olvidó su contraseña?"
+msgstr ""
+
+#: Template/Users/reset.ctp:12
+msgid "Contraseña"
+msgstr ""
+
+#: Template/Users/reset.ctp:13
+msgid "Repita su contraseña"
+msgstr ""
+
+#: Template/Users/reset.ctp:22
+msgid "Cambiar contraseña"
+msgstr ""
+
+#: View/Helper/GetHelper.php:238
+msgid "Venta"
+msgstr ""
+
+#: View/Helper/GetHelper.php:241
+msgid "Alquiler"
+msgstr ""
+
+#: Controller/PostsController.php:247
+msgid "Email de alerta para la grúa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:52
+msgid "Importante: Una grúa de tu interés ha sido modificada recientemente, Ingresa al siguiente link para conocer más detalles."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:127
+msgid "¿Su empresa compra equipamiento Nuevo o Usado?"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:128
+msgid "Equipo nuevo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:129
+msgid "Equipo usado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:130
+msgid "No compramos equipamento"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:44
+msgid "Contenido del mensaje:"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:53
+msgid "Cordialmente:"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:54
+msgid "El contenido de este mensaje puede ser información privilegiada y confidencial. Si usted no es el destinatario real del mismo, por favor informe de ello a quien lo envía y destrúyalo en forma inmediata. Está prohibida su retención, grabación, utilización o divulgación con cualquier propósito. Este mensaje ha sido verificado con software antivirus, en consecuencia, el remitente de este no se hace responsable por la presencia en él o en sus anexos de algún virus que pueda generar daños en los equipos o programas del destinatario."
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:64
+msgid "Todos los derechos reservados"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:64
+msgid "Desarollado por T&T Interactiva S.A.S."
+msgstr ""
+
+#: Controller/UsersController.php:96
+msgid "Usuarios eliminado con éxito."
+msgstr ""
+
+#: Controller/UsersController.php:171
+msgid "Usuario generado exitósamente en: "
+msgstr ""
+
+#: Controller/UsersController.php:173;493
+msgid "Este es un mensaje automático. El siguiente es un correo enviado el"
+msgstr ""
+
+#: Controller/UsersController.php:187
+msgid "Usuario generado exitósamente, un correo de confirmación se ha enviado"
+msgstr ""
+
+#: Controller/UsersController.php:289;396;544
+msgid "Usuario actualizado"
+msgstr ""
+
+#: Controller/UsersController.php:293;402
+msgid "No se pudo guardar"
+msgstr ""
+
+#: Controller/UsersController.php:444
+msgid "El problema persiste. Por favor contacte con el Administrador."
+msgstr ""
+
+#: Controller/UsersController.php:447
+msgid "El codigo de usuario no existe."
+msgstr ""
+
+#: Controller/UsersController.php:463
+msgid "La sesion se ha cerrado correctamente."
+msgstr ""
+
+#: Controller/UsersController.php:490
+msgid "Has solicitado el cambio de contraseña en:"
+msgstr ""
+
+#: Controller/UsersController.php:513
+msgid "Revisa tu correo electrónico, hemos enviado una URL para reestablecer tu contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:518
+msgid "El correo electrónico no se encuentra registrado."
+msgstr ""
+
+#: Controller/UsersController.php:552
+msgid "Lo sontimos, el token ya fue utilizadouse Cake\\Mailer\\Email;\n                    "
+msgstr ""
+
+#: Controller/UsersController.php:567
+msgid "No hay usuarios en la papelera."
+msgstr ""
+
+#: Controller/UsersController.php:583
+msgid "Usuarios restaurados"
+msgstr ""
+
+#: Controller/UsersController.php:606
+msgid "El usuario se ha enviado a papelera"
+msgstr ""
+
+#: Controller/UsersController.php:623
+msgid "El usuario se ha actualizado"
+msgstr ""
+
+#: Controller/UsersController.php:638
+msgid "El usuario se ha eliminado con éxito."
+msgstr ""
+
+#: Controller/UsersController.php:646
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:17
+msgid "Creado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:18
+msgid "Modificado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:20
+msgid "Papelera"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:21;30;364;378;418;528;541;591;643;657;681;691
+msgid "Mover a papelera"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:22
+msgid "Desactivar usuario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:23
+msgid "Ver en la web"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:24;480;487
+msgid "Actualizar"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:25
+msgid "Añadir nuevo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:26;567;617
+msgid "Publicar"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:34;301
+msgid "Imagen"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:35
+msgid "Título"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:37
+msgid "URL"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:38
+msgid "SC"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:39
+msgid "Texto del boton"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:40
+msgid "Correo electrónico"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:41
+msgid "Correo automático"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:43
+msgid "Premium plan USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:44
+msgid "Professional plan USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:45
+msgid "Valor banner Premium rotativo USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:46
+msgid "Valor banner + video USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:47
+msgid "Valor banner estático USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:48
+msgid "Valor banner interno USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:49
+msgid "Valor banner + logotipo inicio USD"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:50
+msgid "Apellidos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:51
+msgid "Identificación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:53
+msgid "Selecciona una opción"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:54
+msgid "Dirección"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:55
+msgid "Ciudad"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:56;57
+msgid "Estado/Provincia"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:58
+msgid "Cargando"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:59
+msgid "Cargando..."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:60
+msgid "sin título"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:61
+msgid "País"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:62
+msgid "VENTA"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:63
+msgid "ALQUILER"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:64
+msgid "Nueva ventana"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:65
+msgid "Duplicar para la venta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:66
+msgid "Teléfono"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:69
+msgid "Caducidad"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:70
+msgid "Tamaño de la miniatura (px)"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:71
+msgid "Logo de la empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:72
+msgid "Icono principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:73
+msgid "PBX"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:75
+msgid "Suscríbete"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:76
+msgid "Suscríbete a nuestras promociones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:78
+msgid "Leer más"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:79
+msgid "Ver más"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:84
+msgid "Indicativo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:85
+msgid "Código de área"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:86;139
+msgid "Autor"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:87
+msgid "Lenguaje actual"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:88
+msgid "Inglés"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:89
+msgid "Español"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:90
+msgid "Portugues"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:93
+msgid "Tipo de industria a la que pertenece"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:94
+msgid "Tipo de industria"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:95
+msgid "Contratista, Construcción"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:96
+msgid "Alquiler grúas y maquinaria pesada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:97;120
+msgid "Transporte especializado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:98
+msgid "Servicios mineria oil & gas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:99
+msgid "Distribuidor maquinaria nueva"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:100
+msgid "Distribuidor Maquinaria Usada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:101
+msgid "Energia eólica"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:102
+msgid "Fabricante de equipos de pesaje y transporte"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:103
+msgid "Servicio técnico de grúas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:104
+msgid "Empresa certificadora & asociaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:105;201
+msgid "Otros"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:108
+msgid "¿Qué tipo de equipo compra, usa o vende?"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:109
+msgid "Equipamento nuevo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:110
+msgid "No compro equipamento"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:111
+msgid "Equipamento usado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:112
+msgid "Grúas mobiles"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:113
+msgid "Grúas hidráulicas camión"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:114
+msgid "Grúas RT"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:115
+msgid "Grúas oruga"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:116
+msgid "Grúas torre"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:117
+msgid "Grúas tipo stinger/plataforma"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:118
+msgid "Grúas hidráulicas de pórtico"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:119
+msgid "Grúas muelle"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:121
+msgid "Telehandlers"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:122
+msgid "Certificación/capacitación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:123
+msgid "Equipamento para Izaje"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:124
+msgid "Componentes"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:135
+msgid "contraseña"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:136
+msgid "Repite la contrañeña"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:137
+msgid "Genera una contraseña y confirmala para poder continuar."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:140
+msgid "Contacto"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:142
+msgid "Contraoferta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:143
+msgid "Solicitante"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:144
+msgid "Disponibilidad"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:145
+msgid "Desde"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:146
+msgid "Formulario de contacto"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:147
+msgid "Estos son los campos que aparecerán en el formulario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:148
+msgid "Compartir en"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:149
+msgid "Navega con el teclado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:150
+msgid "Gadget para esta página"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:151
+msgid "El mensaje se ha enviado correctamente."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:152
+msgid "El mensaje no se ha enviado, intentalo de nuevo."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:153
+msgid "Publicaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:154
+msgid "Publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:155
+#: Controller/Component/MenuComponent.php:62
+msgid "Páginas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:157
+msgid "Categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:158
+msgid "Categorias"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:159
+#: Controller/Component/MenuComponent.php:75
+msgid "Gadgets"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:160
+msgid "Gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:161;679
+msgid "Archivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:162
+msgid "Archivo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:163
+msgid "Media"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:164
+msgid "Nuevo campo personalizado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:165
+msgid "Genera nuevos campos adicionales de ser necesario, si el frontend lo soporta estos aparecerán en el sitio."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:166
+msgid "El usuario se activará"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:167
+msgid "El usuario se inhabilitará"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:168
+msgid "El usuario se eliminará por completo del sistema"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:169
+msgid "Estas en"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:170
+msgid "Texto Suscríbete"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:171
+msgid "Texto contáctenos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:172
+msgid "Link amigable"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:173;489
+msgid "Menú principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:174
+msgid "Menú Nosotros"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:175
+msgid "Menú servicios"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:176
+msgid "Menú Miembros"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:183
+msgid "Los archivos multimedia se han eliminado por completo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:184
+msgid "El archivo multimedia se han eliminado por completo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:185
+msgid "Archivo multimedia actualizado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:188
+msgid "Categoría enviada a papelera"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:189
+msgid "Lo sentimos, esta categoría no se puede eliminar"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:190
+msgid "Categoría actualizada correctamente"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:191
+msgid "Categoría creada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:192
+msgid "Categoría eliminada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:193
+msgid "Lo sentimos, ésta categoría no se puede eliminar"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:194
+msgid "Categoría restaurada correctamente"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:198
+msgid "Especificaciones técnicas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:199
+msgid "Estructura grúa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:200
+msgid "Estructura camión"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:204
+msgid "Disponible"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:205
+msgid "Vendida"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:206
+msgid "Alquilada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:207
+msgid "En negociación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:211
+msgid "Ciudad de Viaje"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:212
+msgid "Hotel"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:213
+msgid "Fecha de Entrada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:214
+msgid "Fecha de Salida"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:215
+msgid "N° de Habitaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:216
+msgid "Adulto"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:217
+msgid "Niño"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:218
+msgid "Reservar"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:219
+#: Template/SellRent/view.ctp:18
+msgid "Disponible para"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:220
+msgid "Fecha de la oferta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:221;243;300
+msgid "ID"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:222
+msgid "Peso"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:223
+msgid "Fabricante"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:224
+msgid "Capacidad"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:227
+msgid "Para todos los elementos seleccionados"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:229;230;424;438;469
+msgid "usuarios"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:231;646
+msgid "categorías"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:232;542;629
+msgid "publicaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:233;592
+msgid "páginas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:234;370;384
+msgid "gadgets"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:235;710;716;728;739;756
+#: Controller/Component/MenuComponent.php:82
+msgid "Ofertas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:236
+#: Controller/Component/MenuComponent.php:88
+msgid "Transacciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:237
+msgid "¿Desea eliminar esta imagen?"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:238
+msgid "archivos multimedia"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:239
+msgid "Buscador"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:240
+msgid "generales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:244
+msgid "Banner inicio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:245
+msgid "Publicidad inicio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:246
+msgid "Publicidad superior (Páginas)"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:247
+msgid "Publicidad interna (Usuario)"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:248
+msgid "Video"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:249
+msgid "Fondo administrable"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:252
+msgid "Total publicaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:253
+msgid "Datos generales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:254
+msgid "Información de contacto"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:255
+msgid "Información de la empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:256
+msgid "Nombre (Razón social)"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:257
+msgid "Email empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:258
+msgid "Ciudad empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:259
+msgid "Dirección empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:260
+msgid "País empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:261
+msgid "PBX empresa"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:262
+msgid "Nit"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:263
+msgid "Cargo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:264
+msgid "Contraseña muy segura"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:265
+msgid "Contraseña segura, agrega algún caracter para que sea más segura"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:266
+msgid "Contraseña media, agrega números y caracteres para que sea más segura"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:267
+msgid "Contraseña débil, intenta alguna contraseña más segura"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:268
+msgid "Contraseña muy débil, cambiala por seguridad"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:269
+msgid "Las contraseñas no concuerdan"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:270
+msgid "Las contraseñas concuerdan"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:273;302
+msgid "Enlace"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:274
+msgid "Agrega o cambia el enlace personalizado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:275
+msgid "Descripción general"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:276
+msgid "Plantilla"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:277
+msgid "Icono"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:278
+msgid "Agrega una descripción aquí"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:279
+msgid "Campos adicionales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:280
+msgid "Ubicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:281
+msgid "Tipo de plan"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:284
+msgid "Buscar archivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:285
+msgid "Agrega los archivos de imagen aquí"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:286
+msgid "Formato"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:288
+msgid "Tamaño KB"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:291
+msgid "Restaurar colores"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:292
+msgid "Oscuro principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:293;497
+msgid "Textos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:294
+msgid "Títulos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:295
+msgid "Enlaces"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:296;499
+msgid "Adicional"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:297
+msgid "Textos claros"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:303
+msgid "ID de gadget (Clientes)"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:306
+msgid "Registro de alertas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:307;745
+msgid "Datos de la oferta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:308
+msgid "Código postal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:313
+msgid "Imágenes para esta publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:314
+msgid "Imagen Destacada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:315;347;354;360;374;549;561;573;587;599;612;624;639;651;670;680;692;701;711;723;734;751
+msgid ""
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:316
+msgid "Imagen destacada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:317
+msgid "Ver todos los archivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:318
+msgid "Galería de imágenes"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:319
+msgid "Selecciona las imágenes que quieres que aparezcan en tu galería, si el tema lo soporta, estas aparecerán en tu sitio."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:320
+msgid "Selecciona la imagen destacada para esta publicación."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:321
+msgid "Arrastra la imagen destacada hasta aquí"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:322
+msgid "Selecciona"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:323
+msgid "Quitar imagen destacada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:324
+msgid "Agregar Imagenes"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:325
+msgid "Actualizar imagen destacada"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:326
+msgid "Actualizar galería"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:329
+msgid "Cambiar logo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:330
+msgid "Cambiar Favicon"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:331
+msgid "Cambiar Fondo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:333
+msgid "Logotipo principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:334
+msgid "Selecciona la imagen que utilizarás como logotipo de tu web"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:336
+msgid "Favicon principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:337
+msgid "Selecciona la imagen que utilizarás como favicon de tu web"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:339
+msgid "Fondo principal"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:340
+msgid "Selecciona la imagen que utilizarás como fondo de tu web"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:345
+msgid "Editar gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:346;353;548;560
+msgid "Agrega el titulo de tu publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:348;355;550;562;600;613
+msgid "Texto destacado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:349
+msgid "Actualizar gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:352
+msgid "Añadir gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:356
+msgid "Generar gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:359
+msgid "Gadgets activos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:361;375;682
+msgid "Todos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:362;376;685
+msgid "Activos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:363;377
+msgid "Inactivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:366;380
+msgid "Tipo de gadget"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:367;381;421;435
+msgid "Correo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:373
+msgid "Gadgets inactivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:390
+msgid "Editar Usuario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:391
+msgid "Actualiza la información de tu perfil desde esta sección"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:392
+msgid "Actualizar usuario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:394;402;410
+msgid "* Si no deseas cambiar la contraseña deja los campos en blanco"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:398;403
+msgid "Generar usuario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:399
+msgid "Agrega el título de tu publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:400
+msgid "Agrega aquí los datos del nuevo usuario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:406
+msgid "Tu perfil"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:407
+msgid "Edita la información de tu perfil de ser necesario."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:409
+msgid "Actualizar perfil"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:413;415;429
+msgid "Todos los usuarios"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:414
+msgid "Aquí podrás editar, crear o eliminar los usuarios que se encuentran registrados en la web."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:416;430
+msgid "Usuarios activos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:417;431
+msgid "Usuarios Inactivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:427
+msgid "Usuarios inactivos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:428
+msgid "Aquí podrás eliminar completamente algún usuario o activarlo nuevamente."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:432
+msgid "Restaurar usuarios"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:445
+msgid "Recuperar contraseña"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:448
+msgid "Restaurar contraseña"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:454
+msgid "Todas las transacciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:455
+msgid "Aquí podrás visualizar las transacciones realizadas en la web."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:456
+msgid "Todos los pagos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:457
+msgid "Pagos actuales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:458
+msgid "Pagos anteriores"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:459
+msgid "ocultar transacciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:461;466
+msgid "Plan adquirido"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:463
+msgid "Estado del pago"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:464
+msgid "Valor cancelado"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:465
+msgid "Ref transacción"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:475
+msgid "Ajustes generales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:476
+msgid "Estos son los ajustes principales de tu web"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:477;485
+msgid "Campos principales"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:478;486
+msgid "Personalización de colores"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:479
+msgid "Enlaces personalizados"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:483
+msgid "Apariencia del sitio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:484
+msgid "Estos son los ajustes para el tema en tu website"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:488
+msgid "Datos del sitio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:490
+msgid "Inicio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:491
+msgid "Si deseas link de inicio agrega el texto necesario"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:492
+msgid "Organización del menú"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:493
+msgid "Agregar al menú"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:495
+msgid "Color claro"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:496
+msgid "Resaltados"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:498
+msgid "Oscuros"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:503
+msgid "Campos personalizables"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:504
+msgid "Agrega, configura o edita los campos personalizables aquí"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:505;519
+msgid "Nuevo campo personalizable"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:506;520
+msgid "Nombre del campo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:507;521
+msgid "Tipo de campo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:508;522
+msgid "Titulo del campo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:509;523
+msgid "Caracteristicas del campo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:510;524
+msgid "Opciones de campos: Select, Checkbox, radio"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:511;525
+msgid "Crear campo"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:512;526
+msgid "Editar campos personalizados"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:513;527
+msgid "Actualizar campos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:517
+msgid "Newsletter"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:518
+msgid "Usuarios registrados para recibir noticias"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:536;538;574
+msgid "Todas las publicaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:537
+msgid "Estas son todas las publicaciones disponibles en el momento"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:539;575
+msgid "Publicaciones activas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:540;572;576;623
+msgid "Publicaciones inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:547
+msgid "Editar publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:551;563;566;601;614
+msgid "Los desacados son resúmenes opcionales de tu contenido."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:552;564
+msgid "Define el icono principal para esta publicación."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:553;565;603;616;664;672;703
+msgid "Cada tipo debe tener una vista exclusiva"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:554
+msgid "Actualizar publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:559
+msgid "Agregar publicación"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:579
+msgid "Restaurar publicaciones"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:586;588;625
+msgid "Todas las páginas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:589;626
+msgid "páginas activas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:590;627
+msgid "páginas inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:597
+msgid "Editar página"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:598;611
+msgid "Agrega el titulo de tu página"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:602
+msgid "Define el icono principal para esta página."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:604
+msgid "Actualizar página"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:605;618
+msgid "Selecciona un gadget de ser necesario, si tu tema lo soporta aparecerá en la página."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:610
+msgid "Agregar página"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:615
+msgid "Define el icono principal para esta páginas."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:628
+msgid "Restaurar páginas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:638;640;650;652;693
+msgid "Todas las categorías"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:641;653;694
+msgid "categorías activas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:642;654;695
+msgid "categorías inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:660
+msgid "Editar categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:661;669
+msgid "Agrega el titulo de tu categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:662
+msgid "Edita los textos e imágenes de esta categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:663;671;702
+msgid "Categoría superior"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:665
+msgid "Actualizar categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:668
+msgid "Agregar categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:673
+msgid "Generar categoría"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:686
+msgid "Rotos"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:689
+msgid "Archivos multimedia"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:690
+msgid "Desde estas sección puedes editar archivos multimedia o eliminar los archivos que ya no necesitas."
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:699
+msgid "Editar Imagen"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:700
+msgid "Agrega un titulo a la imagen"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:704
+msgid "Actualizar Imagen"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:705
+msgid "Eliminar Imagen"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:712;724;735;752
+msgid "Todas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:713;725;736;753
+msgid "Activas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:714;726;737;754
+msgid "Inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:715;727;738
+msgid "Establecer como inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:722
+msgid "Ofertas para alquiler"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:733
+msgid "Ofertas para la venta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:746
+msgid "Estas son las alertas que generó esta oferta"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:750
+msgid "Ofertas inactivas"
+msgstr ""
+
+#: Controller/Component/TextsComponent.php:755
+msgid "Cambiar a activas"
+msgstr ""
+
+#: Controller/Component/MenuComponent.php:30;40
+msgid "Usuarios"
+msgstr ""
+
+#: Controller/Component/MenuComponent.php:48
+msgid "Categorías"
+msgstr ""
+
+#: Controller/Component/MenuComponent.php:55
+msgid "Grúas"
+msgstr ""
+
+#: Controller/Component/MenuComponent.php:68
+msgid "Multimedia"
+msgstr ""
+
+#: Template/Errors/error400.ctp:19
+msgid "Error"
+msgstr ""
+
+#: Template/Errors/error400.ctp:21
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:454
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:154
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:158
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:247
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:249
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:82
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:113
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:150
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153;328
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;329
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;330
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;331
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:166
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:167
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169;341
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170;342
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;343
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;344
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:300
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:364
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:365
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;125;312
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;128;315
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;131;318
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;134;321
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;137
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;140
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;143
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Network/Response.php:1417
+msgid "The requested file was not found"
+msgstr ""
+
+#: ORM/RulesChecker.php:50
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:84
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:107
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:744
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1501
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:947
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:950
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1761
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:770
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:530
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:531
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:532
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:533
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:534
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:535
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:536
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:537
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:538
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "December"
+msgstr ""
+

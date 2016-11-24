@@ -1,0 +1,186 @@
+
+.multilevelpushmenu_wrapper {
+	position: fixed;
+	overflow: hidden;
+	min-width: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.multilevelpushmenu_wrapper .levelHolderClass {
+	position: fixed;
+	margin-left: -100%;
+	left: 0;
+	top: 0;
+	width: auto;
+	height: 100%;
+	min-height: 100%;
+	font-size: 14px;
+	z-index: 2;
+}
+
+.multilevelpushmenu_wrapper .multilevelpushmenu_inactive {
+}
+
+.multilevelpushmenu_wrapper h2 {
+	font-size:16px;
+	height: 32px;x
+	font-weight: bold;
+	padding:10px 10px;
+	background-image: url(../../img/top-bar.png);
+	background-repeat: repeat-x;
+	background-position: top;
+	line-height: 32px;
+}
+
+.multilevelpushmenu_wrapper ul {
+	list-style: none;
+	padding: 0;
+	margin: 5px 0 0;
+}
+
+.multilevelpushmenu_wrapper li {
+	cursor: pointer;
+	border-bottom: 1px solid rgba(255,255,255, 0.2);
+}
+
+.multilevelpushmenu_wrapper li:last-child {
+}
+
+.multilevelpushmenu_wrapper li:hover {
+}
+
+.multilevelpushmenu_wrapper a {
+	display: block;
+	outline: none;
+	text-decoration: none;
+	padding: 10px 30px 10px 20px;
+}
+
+.multilevelpushmenu_wrapper a:after { font-family: FontAwesome; width: 20px; height: 20px; text-align: center; position: absolute; right: 10px; }
+
+.multilevelpushmenu_wrapper a#Users:after { content: "\f0c0";}
+.multilevelpushmenu_wrapper a#Generals:after { content: ""; }
+.multilevelpushmenu_wrapper a#Categories:after { content: "\f02c"; }
+.multilevelpushmenu_wrapper a#Pages:after { content: ""; }
+.multilevelpushmenu_wrapper a#Posts:after { content: ""; }
+.multilevelpushmenu_wrapper a#Logout:after { content: "\f08b"; }
+.multilevelpushmenu_wrapper a#Archives:after { content: ""; }
+.multilevelpushmenu_wrapper a#Gadgets:after { content: "\f126"; }
+.multilevelpushmenu_wrapper a#SellRent:after { content: "\f155"; }
+.multilevelpushmenu_wrapper a#Payments:after { content: "\f1ed"; }
+
+
+.multilevelpushmenu_wrapper a.active {
+	border-left: 5px solid #FFF;
+	padding: 13px 10px 13px 15px;	
+}
+
+.multilevelpushmenu_wrapper .backItemClass {
+	display: block;
+	background: rgba(0,0,0, 0.5);
+	border-top: 1px solid rgba(255,255,255, 0.2);
+}
+
+.multilevelpushmenu_wrapper a i { margin-right: 10px; }
+
+.multilevelpushmenu_wrapper .backItemClass a { padding: 10px 10px 10px 20px; background:transparent;  }
+
+
+.multilevelpushmenu_wrapper .floatRight {
+	float: right;
+	font-size: 19px;
+}
+
+.multilevelpushmenu_wrapper .cursorPointer {
+	cursor: pointer;
+	margin-top: 5px;
+}
+
+.multilevelpushmenu_wrapper .iconSpacing {
+	padding: 0 10px 0 0;
+}
+
+
+
+/*********** buscador ***********/
+
+ul#menu_bar li .searchicon {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color: #FFF;
+    text-align: center;
+    padding: 3px;
+    margin-right: 10px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+ul#menu_bar .searchit {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 12px;
+    text-align: center;
+    margin-left: 2px;
+    cursor: pointer;
+    transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -webkit-transition: all .2s ease;
+}
+
+ul#menu_bar .search {
+    width: 246px;
+    text-align: left;
+    cursor: default;
+    background:rgba(255,255,255, 0.3);
+    border-radius: 20px;
+}
+
+ul#menu_bar .search:hover {
+    
+}
+
+ul#menu_bar .searchbox {
+    display: none;
+    width: 246px;
+}
+
+ul#menu_bar .searchbox .closesearch {
+    float: left;
+    margin: 6px 4px 0px 4px;
+    cursor: pointer;
+}
+
+ul#menu_bar .searchbox .closesearch:hover {
+    opacity: 0.8;   
+}
+
+ul#menu_bar .searchbox input[type=text] {
+    float: left;
+    width: 214px;
+    height: 24px;
+    padding: 0px 12px;
+    margin: 2px 0px 0px 0px;
+    border: none;
+    background: url(images/search-bg.png) no-repeat;
+    outline: none;
+    box-sizing:border-box;
+}
+
+ul#menu_bar .searchbox button[type="submit"] {
+    float: left;
+    width: 28px;
+    height: 28px;
+    margin: 1px 0 0 3px;
+    padding: 3px;
+    outline: medium none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+ul#menu_bar .searchbox button[type="submit"] i { display: block; font-size: 14px; }

@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: 'kenyan_coffeeregular';
+    src: url('../../fonts/kenyan_coffee_rg-webfont.eot');
+    src: url('../../fonts/kenyan_coffee_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/kenyan_coffee_rg-webfont.woff2') format('woff2'),
+         url('../../fonts/kenyan_coffee_rg-webfont.woff') format('woff'),
+         url('../../fonts/kenyan_coffee_rg-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic,700,900&subset=latin,latin-ext);
+
+
